@@ -86,6 +86,19 @@ python herramientas/ejecutar_pruebas.py --procesos 1
 - `herramientas/terceros/`: componentes incluidos con sus licencias y procedencia.
 - `requirements.txt`: complementos de Python.
 
+## Mi participación y aprendizaje
+
+Desarrollé este proyecto personal con apoyo de asistentes de IA para generar y modificar código. Mi participación se centró en definir necesidades, proponer funciones y evaluar el comportamiento de Jarvis.
+
+- Realicé pruebas de sus respuestas para detectar errores y proponer ajustes.
+- Trabajé en mejoras del vocabulario y en distintas formas de expresar peticiones.
+- Propuse contextos y situaciones de uso.
+- Participé en el diseño y mejora de la interfaz gráfica.
+- Impulsé el soporte de documentos y archivos ZIP como adjuntos.
+- Trabajé en la posibilidad de adjuntar y procesar varios archivos a la vez.
+
+El proyecto me permitió practicar la evaluación de un asistente local y convertir necesidades de uso en mejoras concretas.
+
 ## Licencia
 
 El código propio de Jarvis se distribuye bajo la licencia [GNU GPLv3](LICENSE). Los componentes de terceros conservan sus respectivas licencias y avisos de autoría.
