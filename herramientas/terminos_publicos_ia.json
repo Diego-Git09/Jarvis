@@ -1,0 +1,10 @@
+[
+ "Python", "Java", "Kotlin", "SQL", "SQLite", "Linux", "Ubuntu", "Docker", "Oracle",
+ "Spring", "Boot", "Compose", "Room", "JSON", "REST", "HTTP", "HTTPS", "API", "Int",
+ "String", "Persona", "Producto", "Cliente", "RAM", "CPU", "GPU", "VRAM", "Ollama",
+ "Qwen", "DeepSeek", "Android", "Studio", "Windows", "Kubernetes", "PostgreSQL", "MySQL",
+ "Gradle", "Maven", "Git", "XML", "HTML", "CSS", "JavaScript", "TypeScript", "Rust",
+ "LLVM", "OpenJDK", "JVM", "MVVM", "MVP", "UTF", "SELECT", "FROM", "WHERE", "JOIN",
+ "GROUP", "ORDER", "LIMIT", "COUNT", "WITH", "AND", "OR", "NULL", "INSERT", "UPDATE",
+ "DELETE", "CREATE", "TABLE", "INTEGER", "VARCHAR", "BOOLEAN", "GET", "POST", "PUT"
+]

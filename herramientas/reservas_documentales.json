@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "categorias": {
+    "negativa": {"palabras": ["no", "nunca", "jamás", "tampoco", "sin"], "frases": [], "prefijos": []},
+    "condicion": {"palabras": [], "frases": ["solo si", "sólo si", "solo con", "únicamente si", "siempre que", "hasta que", "a menos que", "salvo que", "con autorización", "requiere permiso", "requiere autorización", "necesita permiso", "si se autoriza"], "prefijos": ["condicionad"]},
+    "incertidumbre": {"palabras": ["pendiente", "pendientes"], "frases": ["sin decidir", "por decidir", "por verificar", "falta confirmar", "sin confirmar", "sin verificar", "podría cambiar", "puede cambiar", "se desconoce"], "prefijos": ["tentativ", "provisional", "orientativ"]},
+    "obligacion": {"palabras": ["debe", "deben", "deberá", "deberán", "obligatorio", "obligatoria"], "frases": ["es necesario", "se exige"], "prefijos": []},
+    "exclusividad": {"palabras": ["solo", "sólo", "solamente", "exclusivamente", "únicamente"], "frases": [], "prefijos": []}
+  }
+}

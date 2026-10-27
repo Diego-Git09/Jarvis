@@ -1,0 +1,449 @@
+[
+  {
+    "forma": "tmb",
+    "significado": "tambien",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "q",
+    "significado": "que",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "ej",
+    "significado": "ejemplo",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "promp",
+    "significado": "prompt",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "jarveis",
+    "significado": "jarvis",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "aotumatica",
+    "significado": "automatica",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "automsatico",
+    "significado": "automatico",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "modifciarlos",
+    "significado": "modificarlos",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "inciar",
+    "significado": "iniciar",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "lmite",
+    "significado": "limite",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "constamente",
+    "significado": "constantemente",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "guardadon",
+    "significado": "guardado",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "bottels",
+    "significado": "bottles",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "deepsek",
+    "significado": "deepseek",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "desas",
+    "significado": "de esas",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "compu",
+    "significado": "computador",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "wts",
+    "significado": "watts",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "ias",
+    "significado": "inteligencias artificiales",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "ia",
+    "significado": "inteligencia artificial",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "dockers",
+    "significado": "docker",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "haceme",
+    "significado": "hazme",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "decime",
+    "significado": "dime",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "mostrame",
+    "significado": "muestrame",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "ayudame",
+    "significado": "ayudame",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "pasame",
+    "significado": "pasame",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "mandame",
+    "significado": "mandame",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "avisame",
+    "significado": "avisame",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "fijate",
+    "significado": "revisa",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "mira",
+    "significado": "mira",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "2do",
+    "significado": "segundo",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "peos",
+    "significado": "malos",
+    "origen": "observado",
+    "segura": true
+  },
+  {
+    "forma": "porfa",
+    "significado": "por favor",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "pf",
+    "significado": "por favor",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "xfa",
+    "significado": "por favor",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "xq",
+    "significado": "por que",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "pq",
+    "significado": "por que",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "porq",
+    "significado": "por que",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "tb",
+    "significado": "tambien",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "tbn",
+    "significado": "tambien",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "vdd",
+    "significado": "verdad",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "sip",
+    "significado": "si",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "nop",
+    "significado": "no",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "oka",
+    "significado": "ok",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "okey",
+    "significado": "ok",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "oki",
+    "significado": "ok",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "dsp",
+    "significado": "despues",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "msj",
+    "significado": "mensaje",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "info",
+    "significado": "informacion",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "config",
+    "significado": "configuracion",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "conf",
+    "significado": "configuracion",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "dir",
+    "significado": "directorio",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "arch",
+    "significado": "archivo",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "doc",
+    "significado": "documento",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "bd",
+    "significado": "base de datos",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "repo",
+    "significado": "repositorio",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "req",
+    "significado": "requisitos",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "aprox",
+    "significado": "aproximadamente",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "ubu",
+    "significado": "ubuntu",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "checkea",
+    "significado": "revisa",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "chequea",
+    "significado": "revisa",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "testea",
+    "significado": "prueba",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "bacan",
+    "significado": "bien",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "altiro",
+    "significado": "inmediatamente",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "cachai",
+    "significado": "entiendes",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "luca",
+    "significado": "mil pesos",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "penca",
+    "significado": "malo",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "fome",
+    "significado": "aburrido",
+    "origen": "ampliado",
+    "segura": false
+  },
+  {
+    "forma": "stokeo",
+    "significado": "almacenamiento",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "openwebui",
+    "significado": "open webui",
+    "origen": "ampliado",
+    "segura": true
+  },
+  {
+    "forma": "itgo",
+    "significado": [
+      "algo",
+      "otro significado"
+    ],
+    "origen": "observado",
+    "segura": false
+  },
+  {
+    "forma": "stockeara",
+    "significado": [
+      "almacenara",
+      "tendra existencias"
+    ],
+    "origen": "observado",
+    "segura": false
+  },
+  {
+    "forma": "pad",
+    "significado": [
+      "control de juego",
+      "panel tactil"
+    ],
+    "origen": "observado",
+    "segura": false
+  },
+  {
+    "forma": "desas",
+    "significado": "de esas",
+    "origen": "observado",
+    "segura": true
+  }
+]

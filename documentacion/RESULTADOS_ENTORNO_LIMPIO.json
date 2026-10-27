@@ -1,0 +1,1028 @@
+{
+  "fecha": "2026-10-27",
+  "python": "3.14.4",
+  "entorno_virtual_nuevo": true,
+  "paquetes_sistema_heredados": false,
+  "archivos": 169,
+  "casos_contados": 2762,
+  "aprobados": 2760,
+  "omitidos": 2,
+  "archivos_con_fallos": [],
+  "metodo": "Pasada completa con el entorno nuevo y repeticiones de extracción y GUI; sin sumar repeticiones como casos nuevos.",
+  "resultados": [
+    {
+      "archivo": "prueba_acceso_archivos.py",
+      "casos": 6,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_adjuntos_6h.py",
+      "casos": 165,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_administracion_servicio_revision.py",
+      "casos": 25,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_adversos_lenguaje_r3.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_agente.py",
+      "casos": 20,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_aislamiento_r4.py",
+      "casos": 10,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ampliacion_controles.py",
+      "casos": 13,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_analisis_completo_mixto.py",
+      "casos": 10,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_archivos_nuevos.py",
+      "casos": 14,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_arrastre_6h.py",
+      "casos": 14,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ayuda_r4.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_banco52_r5.py",
+      "casos": 52,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_busqueda_hibrida_6h.py",
+      "casos": 30,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_busquedas.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_cancelacion_transporte_revision.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_captura_conversaciones.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_captura_terminal_revision.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_cargar_vocabulario.py",
+      "casos": 2,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_catalogo_lectura_revision.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_cerebro.py",
+      "casos": 26,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ciclo_ollama_revision.py",
+      "casos": 14,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_cierre_captura_revision.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_cierre_revision.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_cierre_ronda_2h.py",
+      "casos": 5,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_clasificacion_grupo.py",
+      "casos": 16,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_clasificacion_interfaz.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_clasificador_mixto.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_cliente_opencode.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_clima.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_cobertura_adjuntos_2h.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_codificacion_tardia_6h.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_codificaciones_6h.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_cola_procesos_2h.py",
+      "casos": 6,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_comando_sincronizar.py",
+      "casos": 21,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_compuestas_verificadas_2h.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_comunicacion.py",
+      "casos": 10,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_comunicacion_2h.py",
+      "casos": 16,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_conceptos_r4.py",
+      "casos": 5,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_conexion_control_revision.py",
+      "casos": 6,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_config_sesiones.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_consulta_textual_r3.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_contexto_tramos_2h.py",
+      "casos": 20,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_contextos_r3.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_continuacion_confirmada.py",
+      "casos": 16,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_continuacion_r4.py",
+      "casos": 22,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_continuidad.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_contratos_codigo_2h.py",
+      "casos": 11,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_control_recursos.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_corpus_r3.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_credenciales_extensas.py",
+      "casos": 5,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_deepseek_integracion.py",
+      "casos": 11,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_deepseek_predeterminado.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_detalles.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_diagnostico_api.py",
+      "casos": 6,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_documentos_rutas.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_embedding_respuestas_6h.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_entrenamiento_desarrollo.py",
+      "casos": 17,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_estado_compacto_2h.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_estado_ia_6h.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_estado_lenguaje_6h.py",
+      "casos": 44,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_estado_r4.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_estado_r5.py",
+      "casos": 2,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_estado_revision.py",
+      "casos": 5,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_estado_visual_revision.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_extraccion_aislada_6h.py",
+      "casos": 38,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_fuentes_danadas_6h.py",
+      "casos": 13,
+      "omitidos": 1,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_generacion_contratos_2h.py",
+      "casos": 11,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_guardado_protocolo.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_hilo_conversacion_6h.py",
+      "casos": 52,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_inspeccion.py",
+      "casos": 6,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_integracion_adjuntos_6h.py",
+      "casos": 11,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_integracion_hilo_6h.py",
+      "casos": 10,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_integracion_r3.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_integracion_r4.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_integracion_servicio_gui_revision.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_integracion_vocabulario_6h.py",
+      "casos": 21,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_interfaz_grafica.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_interfaz_zen.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_internet.py",
+      "casos": 21,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_interpretacion_r4.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_lanzador.py",
+      "casos": 2,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_lector_respuestas.py",
+      "casos": 10,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_lectura.py",
+      "casos": 11,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_lecturas_publicas_6h.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_lenguaje.py",
+      "casos": 17,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_lenguaje_tareas_6h.py",
+      "casos": 16,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_literales.py",
+      "casos": 5,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_mejoras.py",
+      "casos": 17,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_memoria_explicita.py",
+      "casos": 30,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_metricas_r4.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_modelos_memoria.py",
+      "casos": 2,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_modo_cpu_2h.py",
+      "casos": 6,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_normalizacion_r3.py",
+      "casos": 13,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_nuevas_funciones.py",
+      "casos": 10,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_office_seguro_6h.py",
+      "casos": 21,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_orden.py",
+      "casos": 3,
+      "omitidos": 1,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_perfeccionamiento.py",
+      "casos": 17,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_perfiles_ia.py",
+      "casos": 16,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_planes_permiso.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_plazos_http_revision.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_politica_local_2h.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_preparacion_6h.py",
+      "casos": 13,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_programa_completo.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_propiedad_puerto_revision.py",
+      "casos": 2,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_protocolo_deepseek.py",
+      "casos": 19,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_proyectos_codigo.py",
+      "casos": 42,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_reactivacion_cierre_revision.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_recordatorios.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_recordatorios_graficos.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_recursos_2h.py",
+      "casos": 15,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_redaccion_bordes_6h.py",
+      "casos": 14,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_referencia_documental.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_referencias_duplicadas_6h.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_referencias_fuentes_lenguaje_6h.py",
+      "casos": 5,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_reintento_r5.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_renombrar_r3.py",
+      "casos": 2,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_reparacion_captura.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_reservas_documentales_6h.py",
+      "casos": 16,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_respaldo_local_2h.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_respaldos_r4.py",
+      "casos": 11,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_resumen_documental_6h.py",
+      "casos": 50,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_resumen_extractivo_vigente_6h.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_revision_limpieza_r4.py",
+      "casos": 14,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_robustez.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_robustez_control_revision.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_adversos.py",
+      "casos": 5,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_clave.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_fuentes.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_herramientas.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_modelos.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_pulido.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_referencias.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_repeticion.py",
+      "casos": 11,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_resumen.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_tecnica.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_variantes.py",
+      "casos": 13,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda5_vocabulario.py",
+      "casos": 5,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda6_archivos.py",
+      "casos": 15,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda6_ejecutor.py",
+      "casos": 2,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda6_estado.py",
+      "casos": 2,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda6_fuentes.py",
+      "casos": 53,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda6_integridad.py",
+      "casos": 13,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda6_metricas.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda6_privacidad.py",
+      "casos": 35,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_ronda6_rendimiento.py",
+      "casos": 19,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_seguimiento_guias.py",
+      "casos": 12,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_seleccion_modelos.py",
+      "casos": 29,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_servicio_ollama_revision.py",
+      "casos": 10,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_sesiones_compartidas_revision.py",
+      "casos": 6,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_sincronizacion.py",
+      "casos": 14,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_sqlite_acotado_6h.py",
+      "casos": 20,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_streaming_local_2h.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_tandas_documentales.py",
+      "casos": 55,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_tareas.py",
+      "casos": 4,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_tareas_avanzadas.py",
+      "casos": 7,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_termica_r3.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_termica_r4.py",
+      "casos": 6,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_transporte_6h.py",
+      "casos": 10,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_unidades_captura_r4.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_utilidades.py",
+      "casos": 8,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_vocabulario_6h.py",
+      "casos": 11,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_vocabulario_masivo.py",
+      "casos": 600,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_vocabulario_personal.py",
+      "casos": 20,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_vocabulario_r4.py",
+      "casos": 9,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_widgets_graficos.py",
+      "casos": 16,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_zen_apagado_r4.py",
+      "casos": 3,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_zen_automatico.py",
+      "casos": 15,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_zen_http_r3.py",
+      "casos": 6,
+      "omitidos": 0,
+      "correcto": true
+    },
+    {
+      "archivo": "prueba_zen_r3.py",
+      "casos": 19,
+      "omitidos": 0,
+      "correcto": true
+    }
+  ]
+}

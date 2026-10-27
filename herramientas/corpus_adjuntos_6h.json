@@ -1,0 +1,902 @@
+[
+  {
+    "id": "DOC6H_001",
+    "extension": "txt",
+    "codificacion": "utf-8",
+    "clave": "ORO6H001",
+    "dato": "Existencias verificables 37",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_002",
+    "extension": "md",
+    "codificacion": "utf-8",
+    "clave": "ORO6H002",
+    "dato": "Existencias verificables 38",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_003",
+    "extension": "rst",
+    "codificacion": "utf-8",
+    "clave": "ORO6H003",
+    "dato": "Existencias verificables 39",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_004",
+    "extension": "log",
+    "codificacion": "utf-8",
+    "clave": "ORO6H004",
+    "dato": "Existencias verificables 40",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_005",
+    "extension": "csv",
+    "codificacion": "utf-8",
+    "clave": "ORO6H005",
+    "dato": "Existencias verificables 41",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_006",
+    "extension": "tsv",
+    "codificacion": "utf-8",
+    "clave": "ORO6H006",
+    "dato": "Existencias verificables 42",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_007",
+    "extension": "json",
+    "codificacion": "utf-8",
+    "clave": "ORO6H007",
+    "dato": "Existencias verificables 43",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_008",
+    "extension": "jsonl",
+    "codificacion": "utf-8",
+    "clave": "ORO6H008",
+    "dato": "Existencias verificables 44",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_009",
+    "extension": "yaml",
+    "codificacion": "utf-8",
+    "clave": "ORO6H009",
+    "dato": "Existencias verificables 45",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_010",
+    "extension": "toml",
+    "codificacion": "utf-8",
+    "clave": "ORO6H010",
+    "dato": "Existencias verificables 46",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_011",
+    "extension": "ini",
+    "codificacion": "utf-8",
+    "clave": "ORO6H011",
+    "dato": "Existencias verificables 47",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_012",
+    "extension": "xml",
+    "codificacion": "utf-8",
+    "clave": "ORO6H012",
+    "dato": "Existencias verificables 48",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_013",
+    "extension": "html",
+    "codificacion": "utf-8",
+    "clave": "ORO6H013",
+    "dato": "Existencias verificables 49",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_014",
+    "extension": "rtf",
+    "codificacion": "utf-8",
+    "clave": "ORO6H014",
+    "dato": "Existencias verificables 50",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_015",
+    "extension": "tex",
+    "codificacion": "utf-8",
+    "clave": "ORO6H015",
+    "dato": "Existencias verificables 51",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_016",
+    "extension": "srt",
+    "codificacion": "utf-8",
+    "clave": "ORO6H016",
+    "dato": "Existencias verificables 52",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_017",
+    "extension": "vtt",
+    "codificacion": "utf-8",
+    "clave": "ORO6H017",
+    "dato": "Existencias verificables 53",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_018",
+    "extension": "ipynb",
+    "codificacion": "utf-8",
+    "clave": "ORO6H018",
+    "dato": "Existencias verificables 54",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_019",
+    "extension": "sql",
+    "codificacion": "utf-8",
+    "clave": "ORO6H019",
+    "dato": "Existencias verificables 55",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_020",
+    "extension": "py",
+    "codificacion": "utf-8",
+    "clave": "ORO6H020",
+    "dato": "Existencias verificables 56",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_021",
+    "extension": "java",
+    "codificacion": "utf-8",
+    "clave": "ORO6H021",
+    "dato": "Existencias verificables 57",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_022",
+    "extension": "kt",
+    "codificacion": "utf-8",
+    "clave": "ORO6H022",
+    "dato": "Existencias verificables 58",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_023",
+    "extension": "kts",
+    "codificacion": "utf-8",
+    "clave": "ORO6H023",
+    "dato": "Existencias verificables 59",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_024",
+    "extension": "gradle",
+    "codificacion": "utf-8",
+    "clave": "ORO6H024",
+    "dato": "Existencias verificables 60",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_025",
+    "extension": "js",
+    "codificacion": "utf-8",
+    "clave": "ORO6H025",
+    "dato": "Existencias verificables 61",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_026",
+    "extension": "ts",
+    "codificacion": "utf-8",
+    "clave": "ORO6H026",
+    "dato": "Existencias verificables 62",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_027",
+    "extension": "jsx",
+    "codificacion": "utf-8",
+    "clave": "ORO6H027",
+    "dato": "Existencias verificables 63",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_028",
+    "extension": "tsx",
+    "codificacion": "utf-8",
+    "clave": "ORO6H028",
+    "dato": "Existencias verificables 64",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_029",
+    "extension": "c",
+    "codificacion": "utf-8",
+    "clave": "ORO6H029",
+    "dato": "Existencias verificables 65",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_030",
+    "extension": "cpp",
+    "codificacion": "utf-8",
+    "clave": "ORO6H030",
+    "dato": "Existencias verificables 66",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_031",
+    "extension": "h",
+    "codificacion": "utf-8",
+    "clave": "ORO6H031",
+    "dato": "Existencias verificables 67",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_032",
+    "extension": "cs",
+    "codificacion": "utf-8",
+    "clave": "ORO6H032",
+    "dato": "Existencias verificables 68",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_033",
+    "extension": "go",
+    "codificacion": "utf-8",
+    "clave": "ORO6H033",
+    "dato": "Existencias verificables 69",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_034",
+    "extension": "rs",
+    "codificacion": "utf-8",
+    "clave": "ORO6H034",
+    "dato": "Existencias verificables 70",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_035",
+    "extension": "php",
+    "codificacion": "utf-8",
+    "clave": "ORO6H035",
+    "dato": "Existencias verificables 71",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_036",
+    "extension": "rb",
+    "codificacion": "utf-8",
+    "clave": "ORO6H036",
+    "dato": "Existencias verificables 72",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_037",
+    "extension": "sh",
+    "codificacion": "utf-8",
+    "clave": "ORO6H037",
+    "dato": "Existencias verificables 73",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_038",
+    "extension": "bat",
+    "codificacion": "utf-8",
+    "clave": "ORO6H038",
+    "dato": "Existencias verificables 74",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_039",
+    "extension": "ps1",
+    "codificacion": "utf-8",
+    "clave": "ORO6H039",
+    "dato": "Existencias verificables 75",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_040",
+    "extension": "properties",
+    "codificacion": "utf-8",
+    "clave": "ORO6H040",
+    "dato": "Existencias verificables 76",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_041",
+    "extension": "env",
+    "codificacion": "utf-8",
+    "clave": "ORO6H041",
+    "dato": "Existencias verificables 77",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_042",
+    "extension": "docx",
+    "codificacion": "utf-8",
+    "clave": "ORO6H042",
+    "dato": "Existencias verificables 78",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_043",
+    "extension": "xlsx",
+    "codificacion": "utf-8",
+    "clave": "ORO6H043",
+    "dato": "Existencias verificables 79",
+    "referencia": "hoja Ventas",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_044",
+    "extension": "xlsm",
+    "codificacion": "utf-8",
+    "clave": "ORO6H044",
+    "dato": "Existencias verificables 80",
+    "referencia": "hoja Ventas",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_045",
+    "extension": "pptx",
+    "codificacion": "utf-8",
+    "clave": "ORO6H045",
+    "dato": "Existencias verificables 81",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_046",
+    "extension": "odt",
+    "codificacion": "utf-8",
+    "clave": "ORO6H046",
+    "dato": "Existencias verificables 82",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_047",
+    "extension": "ods",
+    "codificacion": "utf-8",
+    "clave": "ORO6H047",
+    "dato": "Existencias verificables 83",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_048",
+    "extension": "odp",
+    "codificacion": "utf-8",
+    "clave": "ORO6H048",
+    "dato": "Existencias verificables 84",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_049",
+    "extension": "epub",
+    "codificacion": "utf-8",
+    "clave": "ORO6H049",
+    "dato": "Existencias verificables 85",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_050",
+    "extension": "eml",
+    "codificacion": "utf-8",
+    "clave": "ORO6H050",
+    "dato": "Existencias verificables 86",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_051",
+    "extension": "mbox",
+    "codificacion": "utf-8",
+    "clave": "ORO6H051",
+    "dato": "Existencias verificables 87",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_052",
+    "extension": "vcf",
+    "codificacion": "utf-8",
+    "clave": "ORO6H052",
+    "dato": "Existencias verificables 88",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_053",
+    "extension": "ics",
+    "codificacion": "utf-8",
+    "clave": "ORO6H053",
+    "dato": "Existencias verificables 89",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_054",
+    "extension": "db",
+    "codificacion": "utf-8",
+    "clave": "ORO6H054",
+    "dato": "Existencias verificables 90",
+    "referencia": "tabla inventario",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_055",
+    "extension": "sqlite",
+    "codificacion": "utf-8",
+    "clave": "ORO6H055",
+    "dato": "Existencias verificables 91",
+    "referencia": "tabla inventario",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_056",
+    "extension": "zip",
+    "codificacion": "utf-8",
+    "clave": "ORO6H056",
+    "dato": "Existencias verificables 92",
+    "referencia": "contenido.txt",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_057",
+    "extension": "tar",
+    "codificacion": "utf-8",
+    "clave": "ORO6H057",
+    "dato": "Existencias verificables 93",
+    "referencia": "contenido.txt",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_058",
+    "extension": "tgz",
+    "codificacion": "utf-8",
+    "clave": "ORO6H058",
+    "dato": "Existencias verificables 94",
+    "referencia": "contenido.txt",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_059",
+    "extension": "gz",
+    "codificacion": "utf-8",
+    "clave": "ORO6H059",
+    "dato": "Existencias verificables 95",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_060",
+    "extension": "txt",
+    "codificacion": "utf-16",
+    "clave": "ORO6H060",
+    "dato": "Existencias verificables 96",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_061",
+    "extension": "md",
+    "codificacion": "utf-16",
+    "clave": "ORO6H061",
+    "dato": "Existencias verificables 97",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_062",
+    "extension": "rst",
+    "codificacion": "utf-16",
+    "clave": "ORO6H062",
+    "dato": "Existencias verificables 98",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_063",
+    "extension": "log",
+    "codificacion": "utf-16",
+    "clave": "ORO6H063",
+    "dato": "Existencias verificables 99",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_064",
+    "extension": "csv",
+    "codificacion": "utf-16",
+    "clave": "ORO6H064",
+    "dato": "Existencias verificables 100",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_065",
+    "extension": "tsv",
+    "codificacion": "utf-16",
+    "clave": "ORO6H065",
+    "dato": "Existencias verificables 101",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_066",
+    "extension": "json",
+    "codificacion": "utf-16",
+    "clave": "ORO6H066",
+    "dato": "Existencias verificables 102",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_067",
+    "extension": "jsonl",
+    "codificacion": "utf-16",
+    "clave": "ORO6H067",
+    "dato": "Existencias verificables 103",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_068",
+    "extension": "yaml",
+    "codificacion": "utf-16",
+    "clave": "ORO6H068",
+    "dato": "Existencias verificables 104",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_069",
+    "extension": "toml",
+    "codificacion": "utf-16",
+    "clave": "ORO6H069",
+    "dato": "Existencias verificables 105",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_070",
+    "extension": "ini",
+    "codificacion": "utf-16",
+    "clave": "ORO6H070",
+    "dato": "Existencias verificables 106",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_071",
+    "extension": "xml",
+    "codificacion": "utf-16",
+    "clave": "ORO6H071",
+    "dato": "Existencias verificables 107",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_072",
+    "extension": "html",
+    "codificacion": "utf-16",
+    "clave": "ORO6H072",
+    "dato": "Existencias verificables 108",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_073",
+    "extension": "rtf",
+    "codificacion": "utf-16",
+    "clave": "ORO6H073",
+    "dato": "Existencias verificables 109",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_074",
+    "extension": "tex",
+    "codificacion": "utf-16",
+    "clave": "ORO6H074",
+    "dato": "Existencias verificables 110",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_075",
+    "extension": "srt",
+    "codificacion": "utf-16",
+    "clave": "ORO6H075",
+    "dato": "Existencias verificables 111",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_076",
+    "extension": "vtt",
+    "codificacion": "utf-16",
+    "clave": "ORO6H076",
+    "dato": "Existencias verificables 112",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_077",
+    "extension": "ipynb",
+    "codificacion": "utf-16",
+    "clave": "ORO6H077",
+    "dato": "Existencias verificables 113",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_078",
+    "extension": "sql",
+    "codificacion": "utf-16",
+    "clave": "ORO6H078",
+    "dato": "Existencias verificables 114",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_079",
+    "extension": "py",
+    "codificacion": "utf-16",
+    "clave": "ORO6H079",
+    "dato": "Existencias verificables 115",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_080",
+    "extension": "java",
+    "codificacion": "utf-16",
+    "clave": "ORO6H080",
+    "dato": "Existencias verificables 116",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_081",
+    "extension": "kt",
+    "codificacion": "utf-16",
+    "clave": "ORO6H081",
+    "dato": "Existencias verificables 117",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_082",
+    "extension": "kts",
+    "codificacion": "utf-16",
+    "clave": "ORO6H082",
+    "dato": "Existencias verificables 118",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_083",
+    "extension": "gradle",
+    "codificacion": "utf-16",
+    "clave": "ORO6H083",
+    "dato": "Existencias verificables 119",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_084",
+    "extension": "js",
+    "codificacion": "utf-16",
+    "clave": "ORO6H084",
+    "dato": "Existencias verificables 120",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_085",
+    "extension": "ts",
+    "codificacion": "utf-16",
+    "clave": "ORO6H085",
+    "dato": "Existencias verificables 121",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_086",
+    "extension": "jsx",
+    "codificacion": "utf-16",
+    "clave": "ORO6H086",
+    "dato": "Existencias verificables 122",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_087",
+    "extension": "tsx",
+    "codificacion": "utf-16",
+    "clave": "ORO6H087",
+    "dato": "Existencias verificables 123",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_088",
+    "extension": "c",
+    "codificacion": "utf-16",
+    "clave": "ORO6H088",
+    "dato": "Existencias verificables 124",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_089",
+    "extension": "cpp",
+    "codificacion": "utf-16",
+    "clave": "ORO6H089",
+    "dato": "Existencias verificables 125",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_090",
+    "extension": "h",
+    "codificacion": "utf-16",
+    "clave": "ORO6H090",
+    "dato": "Existencias verificables 126",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_091",
+    "extension": "cs",
+    "codificacion": "utf-16",
+    "clave": "ORO6H091",
+    "dato": "Existencias verificables 127",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_092",
+    "extension": "go",
+    "codificacion": "utf-16",
+    "clave": "ORO6H092",
+    "dato": "Existencias verificables 128",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_093",
+    "extension": "rs",
+    "codificacion": "utf-16",
+    "clave": "ORO6H093",
+    "dato": "Existencias verificables 129",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_094",
+    "extension": "php",
+    "codificacion": "utf-16",
+    "clave": "ORO6H094",
+    "dato": "Existencias verificables 130",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_095",
+    "extension": "rb",
+    "codificacion": "utf-16",
+    "clave": "ORO6H095",
+    "dato": "Existencias verificables 131",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_096",
+    "extension": "sh",
+    "codificacion": "utf-16",
+    "clave": "ORO6H096",
+    "dato": "Existencias verificables 132",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_097",
+    "extension": "bat",
+    "codificacion": "utf-16",
+    "clave": "ORO6H097",
+    "dato": "Existencias verificables 133",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_098",
+    "extension": "ps1",
+    "codificacion": "utf-16",
+    "clave": "ORO6H098",
+    "dato": "Existencias verificables 134",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_099",
+    "extension": "properties",
+    "codificacion": "utf-16",
+    "clave": "ORO6H099",
+    "dato": "Existencias verificables 135",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  },
+  {
+    "id": "DOC6H_100",
+    "extension": "env",
+    "codificacion": "utf-16",
+    "clave": "ORO6H100",
+    "dato": "Existencias verificables 136",
+    "referencia": "",
+    "criterio": "La recuperación contiene la clave y el dato exactos, y cita el archivo y la unidad oro si corresponde."
+  }
+]

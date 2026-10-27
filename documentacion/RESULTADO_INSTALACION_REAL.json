@@ -1,0 +1,34 @@
+{
+  "fecha": "2026-10-27",
+  "python": "3.14.4",
+  "dependencias": {
+    "pypdf": "6.20.1",
+    "olefile": "0.47",
+    "Pillow": "12.1.1",
+    "psutil": "7.1.0"
+  },
+  "entorno_nuevo_sin_paquetes_sistema": true,
+  "pip_check": "Sin requisitos incompatibles",
+  "inferencia_real": {
+    "modelo": "qwen2.5-coder:1.5b",
+    "respuesta": "4",
+    "resultado_correcto": true,
+    "tokens_salida": 2,
+    "finalizada": true
+  },
+  "controlador_real": {
+    "respuesta": "4",
+    "sin_herramientas": true,
+    "sin_simulaciones": true
+  },
+  "terminal_limpia": {
+    "codigo": 0,
+    "ayuda_visible": true,
+    "stderr": ""
+  },
+  "servidor_propio_cerrado": true,
+  "temperaturas_iniciales": {
+    "cpu_c": 61.0,
+    "temperatura": 44.0
+  }
+}

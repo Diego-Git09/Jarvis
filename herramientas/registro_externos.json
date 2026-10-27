@@ -1,0 +1,200 @@
+[
+  {
+    "id": "deepseek-v4.1-flash-free",
+    "nombre": "DeepSeek V4.1 Flash Free",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "retención cero, no entrenamiento",
+    "retencion": "retención cero, no entrenamiento",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "permitido",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "beam-free",
+    "nombre": "Beam Free",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "30 días por seguridad, no entrenamiento",
+    "retencion": "30 días por seguridad, no entrenamiento",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "en evaluación",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "big-pickle",
+    "nombre": "Big Pickle",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "puede usarse para mejorar el modelo; retención desconocida",
+    "retencion": "puede usarse para mejorar el modelo; retención desconocida",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "en evaluación",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "glm-5.3-flash-free",
+    "nombre": "GLM 5.3 Flash Free",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "retención cero, no entrenamiento",
+    "retencion": "retención cero, no entrenamiento",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "en evaluación",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "jev-1.13-free",
+    "nombre": "Jev 1.13 Free",
+    "capacidades": {
+      "texto": false,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "desconocida",
+    "retencion": "desconocida",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "en evaluación",
+    "endpoint": "https://opencode.ai/inference/systemone/v1/systemone",
+    "metricas": {},
+    "solo_evaluacion": true,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "longcat-2.5-preview-free",
+    "nombre": "LongCat 2.5 Preview Free",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "retención cero, no entrenamiento",
+    "retencion": "retención cero, no entrenamiento",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "en evaluación",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "mimo-v2.6-flash-free",
+    "nombre": "MiMo V2.6 Flash Free",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "puede usarse para mejorar el modelo; retención desconocida",
+    "retencion": "puede usarse para mejorar el modelo; retención desconocida",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "en evaluación",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "minimax-m3.1-flash-free",
+    "nombre": "MiniMax M3.1 Flash Free",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "retención cero, no entrenamiento",
+    "retencion": "retención cero, no entrenamiento",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "en evaluación",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "nemotron-3-ultra-free",
+    "nombre": "Nemotron 3 Ultra Free",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "sesiones registradas para seguridad y mejora; solo prueba",
+    "retencion": "sesiones registradas para seguridad y mejora; solo prueba",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "no disponible",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "nemotron-3.5-lightning-free",
+    "nombre": "Nemotron 3.5 Lightning Free",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "sesiones registradas para seguridad y mejora; solo prueba",
+    "retencion": "sesiones registradas para seguridad y mejora; solo prueba",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "en evaluación",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  },
+  {
+    "id": "nemotron-3.5-super-vl-free",
+    "nombre": "Nemotron 3.5 Super VL Free",
+    "capacidades": {
+      "texto": true,
+      "herramientas": "desconocida",
+      "imagenes": "desconocida"
+    },
+    "contexto": "desconocido (la API pública no entrega límite)",
+    "privacidad": "sesiones registradas para seguridad y mejora; solo prueba",
+    "retencion": "sesiones registradas para seguridad y mejora; solo prueba",
+    "documentacion": "https://opencode.ai/v2/docs/console/models/",
+    "estado": "en evaluación",
+    "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+    "metricas": {},
+    "solo_evaluacion": false,
+    "verificacion": "ID contrastado con catálogo público el 20/10/2026; no acredita disponibilidad de una cuenta ni generación. Nemotron 3 Ultra no apareció en el catálogo público."
+  }
+]

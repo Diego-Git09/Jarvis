@@ -1,0 +1,33 @@
+{
+  "nombre": "tkinterdnd2",
+  "version": "0.6.4",
+  "fuente": "https://pypi.org/project/tkinterdnd2/0.6.4/",
+  "wheel_sha256": "4b11e0ac6febd8609faf154851d782eca4068bfa68a88ca3d3dded8294367f80",
+  "plataformas_incluidas": [
+    "linux-x64",
+    "linux-x64-tcl9"
+  ],
+  "archivos": {
+    "__init__.py": "514ce83cf94762760ec0c38aa3a445c998ff4cc3bec2661d3c1c60b8c1033bf2",
+    "LICENSE": "cb0b1019296ff5303a64a1611ed9da5fa738127119f7a4f92fedf3e61f572f05",
+    "TkinterDnD.py": "a5c23c0c9dbd1c1c9077809e5520b7edfed60986db7ebc1f7361a8f4c5bd6e29",
+    "tkdnd/linux-x64/pkgIndex.tcl": "d03959bb595375e6d52868a2d209def23ec98f349e524d10ee98cc6885817606",
+    "tkdnd/linux-x64/tkdnd_compat.tcl": "58b0aebd287df1d2cfe16231847b786ac9a3a2d18fff2a8a37955510221d10f5",
+    "tkdnd/linux-x64/tkdnd_generic.tcl": "100d8b4199809f387b06cad1736f82536238c74ddbf7c6a87abbc1aa62cbbdf5",
+    "tkdnd/linux-x64/tkdnd_unix.tcl": "a314a90863eef53db04203eaf637dff9324f0178d63c680b5bff7c4467a125f9",
+    "tkdnd/linux-x64/tkdnd_macosx.tcl": "8df2832dd834cd5347f42ef62a9fd8c14b6b473e2a9f8007db6c31a606ca4ab9",
+    "tkdnd/linux-x64/tkdnd_utils.tcl": "fff7b046dfa50992dd3151c74291558c13a675efcaa758ce53d4d4a6ebebbb43",
+    "tkdnd/linux-x64/tkdnd_windows.tcl": "991f878a7a45c83cb5403ad82a768211b12640bf2b8b0cbceb8385b293d10809",
+    "tkdnd/linux-x64/tkdnd.tcl": "d47acfd2e2d5426c40e8f5c11646c49a7ecdadc92c73f9c3f47eb0ea6fbba4b7",
+    "tkdnd/linux-x64/libtkdnd2.10.3.so": "b06860716efe360c1f5ea6a9474aedce8c9370c7b380c93fd06c2f7044bae3a3",
+    "tkdnd/linux-x64-tcl9/pkgIndex.tcl": "addad10a8db9abdb2555638f26a4160727aac711ce8ba079bb148ccad8a548f4",
+    "tkdnd/linux-x64-tcl9/tkdnd_compat.tcl": "58b0aebd287df1d2cfe16231847b786ac9a3a2d18fff2a8a37955510221d10f5",
+    "tkdnd/linux-x64-tcl9/tkdnd_generic.tcl": "100d8b4199809f387b06cad1736f82536238c74ddbf7c6a87abbc1aa62cbbdf5",
+    "tkdnd/linux-x64-tcl9/tkdnd_unix.tcl": "a314a90863eef53db04203eaf637dff9324f0178d63c680b5bff7c4467a125f9",
+    "tkdnd/linux-x64-tcl9/tkdnd_macosx.tcl": "8df2832dd834cd5347f42ef62a9fd8c14b6b473e2a9f8007db6c31a606ca4ab9",
+    "tkdnd/linux-x64-tcl9/tkdnd_utils.tcl": "fff7b046dfa50992dd3151c74291558c13a675efcaa758ce53d4d4a6ebebbb43",
+    "tkdnd/linux-x64-tcl9/tkdnd_windows.tcl": "991f878a7a45c83cb5403ad82a768211b12640bf2b8b0cbceb8385b293d10809",
+    "tkdnd/linux-x64-tcl9/libtcl9tkdnd2.10.3.so": "6b86d6236b7689cec8354611800ca7f77b93547f275bbd6653034edddcccb35e",
+    "tkdnd/linux-x64-tcl9/tkdnd.tcl": "d47acfd2e2d5426c40e8f5c11646c49a7ecdadc92c73f9c3f47eb0ea6fbba4b7"
+  }
+}

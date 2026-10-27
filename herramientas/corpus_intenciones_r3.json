@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "leer_1",
+    "intencion": "leer",
+    "frase": "lee el archivo notas.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "leer_2",
+    "intencion": "leer",
+    "frase": "leeme notas.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "leer_3",
+    "intencion": "leer",
+    "frase": "muestrame el archivo notas.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "leer_4",
+    "intencion": "leer",
+    "frase": "abre el archivo notas.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "leer_5",
+    "intencion": "leer",
+    "frase": "puedes leer el archivo notas.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "leer_6",
+    "intencion": "leer",
+    "frase": "mostrame notas.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "leer_7",
+    "intencion": "leer",
+    "frase": "lee esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "leer_8",
+    "intencion": "leer",
+    "frase": "quiero que leas un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "buscar_1",
+    "intencion": "buscar",
+    "frase": "busca el informe",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "buscar_2",
+    "intencion": "buscar",
+    "frase": "encuentra el documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "buscar_3",
+    "intencion": "buscar",
+    "frase": "revisa donde esta el archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "buscar_4",
+    "intencion": "buscar",
+    "frase": "buscar un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "buscar_5",
+    "intencion": "buscar",
+    "frase": "puedes buscar informes",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "buscar_6",
+    "intencion": "buscar",
+    "frase": "por favor encuentra mi carpeta",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "buscar_7",
+    "intencion": "buscar",
+    "frase": "necesito que busques un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "buscar_8",
+    "intencion": "buscar",
+    "frase": "revisa los archivos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "crear_1",
+    "intencion": "crear",
+    "frase": "crea una carpeta nueva",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "crear_2",
+    "intencion": "crear",
+    "frase": "escribe un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "crear_3",
+    "intencion": "crear",
+    "frase": "genera un documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "crear_4",
+    "intencion": "crear",
+    "frase": "arma un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "crear_5",
+    "intencion": "crear",
+    "frase": "hazme una carpeta",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "crear_6",
+    "intencion": "crear",
+    "frase": "agrega un documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "crear_7",
+    "intencion": "crear",
+    "frase": "prepara un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "crear_8",
+    "intencion": "crear",
+    "frase": "quiero que crees un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "editar_1",
+    "intencion": "editar",
+    "frase": "edita el archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "editar_2",
+    "intencion": "editar",
+    "frase": "modifica el documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "editar_3",
+    "intencion": "editar",
+    "frase": "cambia el texto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "editar_4",
+    "intencion": "editar",
+    "frase": "actualiza el archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "editar_5",
+    "intencion": "editar",
+    "frase": "reemplaza una frase",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "editar_6",
+    "intencion": "editar",
+    "frase": "puedes editar esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "editar_7",
+    "intencion": "editar",
+    "frase": "necesito modificar el archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "editar_8",
+    "intencion": "editar",
+    "frase": "modifciarlos por favor",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "copiar_1",
+    "intencion": "copiar",
+    "frase": "copia notas.txt a copia.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "copiar_2",
+    "intencion": "copiar",
+    "frase": "copiar el archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "copiar_3",
+    "intencion": "copiar",
+    "frase": "duplica el informe",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "copiar_4",
+    "intencion": "copiar",
+    "frase": "duplicar un documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "copiar_5",
+    "intencion": "copiar",
+    "frase": "puedes copiar esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "copiar_6",
+    "intencion": "copiar",
+    "frase": "copia este archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "copiar_7",
+    "intencion": "copiar",
+    "frase": "copialo a respaldo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "copiar_8",
+    "intencion": "copiar",
+    "frase": "necesito que copies un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "mover_1",
+    "intencion": "mover",
+    "frase": "mueve el archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "mover_2",
+    "intencion": "mover",
+    "frase": "mover notas.txt a respaldo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "mover_3",
+    "intencion": "mover",
+    "frase": "traslada el informe",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "mover_4",
+    "intencion": "mover",
+    "frase": "trasladar un documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "mover_5",
+    "intencion": "mover",
+    "frase": "muevelo a respaldo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "mover_6",
+    "intencion": "mover",
+    "frase": "puedes mover esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "mover_7",
+    "intencion": "mover",
+    "frase": "necesito que muevas el archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "mover_8",
+    "intencion": "mover",
+    "frase": "mueve las carpetas",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "renombrar_1",
+    "intencion": "renombrar",
+    "frase": "renombra notas.txt como nueva.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "renombrar_2",
+    "intencion": "renombrar",
+    "frase": "renombrar un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "renombrar_3",
+    "intencion": "renombrar",
+    "frase": "cambia el nombre del archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "renombrar_4",
+    "intencion": "renombrar",
+    "frase": "puedes renombrar esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "renombrar_5",
+    "intencion": "renombrar",
+    "frase": "renombralo como informe.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "renombrar_6",
+    "intencion": "renombrar",
+    "frase": "quiero renombrar una copia",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "renombrar_7",
+    "intencion": "renombrar",
+    "frase": "renombra la copia",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "renombrar_8",
+    "intencion": "renombrar",
+    "frase": "necesito cambiar el nombre",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "borrar_1",
+    "intencion": "borrar",
+    "frase": "borra el archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "borrar_2",
+    "intencion": "borrar",
+    "frase": "borrar el documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "borrar_3",
+    "intencion": "borrar",
+    "frase": "elimina la copia",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "borrar_4",
+    "intencion": "borrar",
+    "frase": "eliminar este archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "borrar_5",
+    "intencion": "borrar",
+    "frase": "quita el documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "borrar_6",
+    "intencion": "borrar",
+    "frase": "quitar una carpeta",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "borrar_7",
+    "intencion": "borrar",
+    "frase": "puedes borrar esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "borrar_8",
+    "intencion": "borrar",
+    "frase": "necesito que borres un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "resumir_1",
+    "intencion": "resumir",
+    "frase": "resume este texto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "resumir_2",
+    "intencion": "resumir",
+    "frase": "resumir un documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "resumir_3",
+    "intencion": "resumir",
+    "frase": "dame un resumen",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "resumir_4",
+    "intencion": "resumir",
+    "frase": "resumelo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "resumir_5",
+    "intencion": "resumir",
+    "frase": "puedes resumir esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "resumir_6",
+    "intencion": "resumir",
+    "frase": "necesito un resumen",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "resumir_7",
+    "intencion": "resumir",
+    "frase": "resume lo anterior",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "resumir_8",
+    "intencion": "resumir",
+    "frase": "quiero resumir la explicacion",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "explicar_1",
+    "intencion": "explicar",
+    "frase": "explica este concepto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "explicar_2",
+    "intencion": "explicar",
+    "frase": "explicame esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "explicar_3",
+    "intencion": "explicar",
+    "frase": "que significa byte",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "explicar_4",
+    "intencion": "explicar",
+    "frase": "que es una variable",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "explicar_5",
+    "intencion": "explicar",
+    "frase": "como funciona una funcion",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "explicar_6",
+    "intencion": "explicar",
+    "frase": "ensename que significa",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "explicar_7",
+    "intencion": "explicar",
+    "frase": "explicamelo con un ejemplo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "explicar_8",
+    "intencion": "explicar",
+    "frase": "puedes explicar esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "guia_1",
+    "intencion": "guia",
+    "frase": "haceme una guia",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "guia_2",
+    "intencion": "guia",
+    "frase": "dame un paso a paso",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "guia_3",
+    "intencion": "guia",
+    "frase": "necesito un tutorial",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "guia_4",
+    "intencion": "guia",
+    "frase": "prepara un instructivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "guia_5",
+    "intencion": "guia",
+    "frase": "por donde empiezo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "guia_6",
+    "intencion": "guia",
+    "frase": "explica paso a paso",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "guia_7",
+    "intencion": "guia",
+    "frase": "quiero una guia",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "guia_8",
+    "intencion": "guia",
+    "frase": "puedes darme un tutorial",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "comparar_1",
+    "intencion": "comparar",
+    "frase": "compara estas opciones",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "comparar_2",
+    "intencion": "comparar",
+    "frase": "comparar dos programas",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "comparar_3",
+    "intencion": "comparar",
+    "frase": "que diferencia hay",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "comparar_4",
+    "intencion": "comparar",
+    "frase": "dime las diferencias",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "comparar_5",
+    "intencion": "comparar",
+    "frase": "analiza ventajas y desventajas",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "comparar_6",
+    "intencion": "comparar",
+    "frase": "puedes comparar esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "comparar_7",
+    "intencion": "comparar",
+    "frase": "necesito comparar los resultados",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "comparar_8",
+    "intencion": "comparar",
+    "frase": "compara lineal y binaria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "recomendar_1",
+    "intencion": "recomendar",
+    "frase": "que me recomiendas",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "recomendar_2",
+    "intencion": "recomendar",
+    "frase": "recomienda un modelo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "recomendar_3",
+    "intencion": "recomendar",
+    "frase": "cual conviene",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "recomendar_4",
+    "intencion": "recomendar",
+    "frase": "vale la pena hacerlo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "recomendar_5",
+    "intencion": "recomendar",
+    "frase": "puedes recomendar una opcion",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "recomendar_6",
+    "intencion": "recomendar",
+    "frase": "me conviene usarlo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "recomendar_7",
+    "intencion": "recomendar",
+    "frase": "dime que recomiendas",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "recomendar_8",
+    "intencion": "recomendar",
+    "frase": "necesito que recomiendes una alternativa",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "corregir_codigo_1",
+    "intencion": "corregir_codigo",
+    "frase": "corrige este codigo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "corregir_codigo_2",
+    "intencion": "corregir_codigo",
+    "frase": "depura el python",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "corregir_codigo_3",
+    "intencion": "corregir_codigo",
+    "frase": "arregla la funcion",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "corregir_codigo_4",
+    "intencion": "corregir_codigo",
+    "frase": "corregir codigo kotlin",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "corregir_codigo_5",
+    "intencion": "corregir_codigo",
+    "frase": "depurar un script",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "corregir_codigo_6",
+    "intencion": "corregir_codigo",
+    "frase": "arreglar codigo java",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "corregir_codigo_7",
+    "intencion": "corregir_codigo",
+    "frase": "puedes corregir una funcion",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "corregir_codigo_8",
+    "intencion": "corregir_codigo",
+    "frase": "necesito corregir codigo sql",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "pruebas_1",
+    "intencion": "pruebas",
+    "frase": "corre las pruebas",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "pruebas_2",
+    "intencion": "pruebas",
+    "frase": "ejecuta los tests",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "pruebas_3",
+    "intencion": "pruebas",
+    "frase": "haz pruebas",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "pruebas_4",
+    "intencion": "pruebas",
+    "frase": "hazme un test",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "pruebas_5",
+    "intencion": "pruebas",
+    "frase": "testea el codigo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "pruebas_6",
+    "intencion": "pruebas",
+    "frase": "prueba mi codigo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "pruebas_7",
+    "intencion": "pruebas",
+    "frase": "correr tests",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "pruebas_8",
+    "intencion": "pruebas",
+    "frase": "ejecutar pruebas",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_estado_1",
+    "intencion": "cerebro_estado",
+    "frase": "consulta el estado de segundo cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_estado_2",
+    "intencion": "cerebro_estado",
+    "frase": "como esta el cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_estado_3",
+    "intencion": "cerebro_estado",
+    "frase": "segundo cerebro esta funcionando",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_estado_4",
+    "intencion": "cerebro_estado",
+    "frase": "funciona mi cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_estado_5",
+    "intencion": "cerebro_estado",
+    "frase": "que estado tiene segundo cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_estado_6",
+    "intencion": "cerebro_estado",
+    "frase": "revisa la conexion al cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_estado_7",
+    "intencion": "cerebro_estado",
+    "frase": "COnsulta el estado de segundo cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_estado_8",
+    "intencion": "cerebro_estado",
+    "frase": "esta funcionando el segundo cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_proyectos_1",
+    "intencion": "cerebro_proyectos",
+    "frase": "muestra mis proyectos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_proyectos_2",
+    "intencion": "cerebro_proyectos",
+    "frase": "muestrame los proyectos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_proyectos_3",
+    "intencion": "cerebro_proyectos",
+    "frase": "que proyectos tengo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_proyectos_4",
+    "intencion": "cerebro_proyectos",
+    "frase": "proyectos registrados en cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_proyectos_5",
+    "intencion": "cerebro_proyectos",
+    "frase": "lista proyectos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_proyectos_6",
+    "intencion": "cerebro_proyectos",
+    "frase": "dime mis proyectos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_proyectos_7",
+    "intencion": "cerebro_proyectos",
+    "frase": "puedes mostrar proyectos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_proyectos_8",
+    "intencion": "cerebro_proyectos",
+    "frase": "que proyectos estan registrados",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_buscar_1",
+    "intencion": "cerebro_buscar",
+    "frase": "busca en segundo cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_buscar_2",
+    "intencion": "cerebro_buscar",
+    "frase": "consulta mis recuerdos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_buscar_3",
+    "intencion": "cerebro_buscar",
+    "frase": "encuentra memorias",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_buscar_4",
+    "intencion": "cerebro_buscar",
+    "frase": "busca mis recuerdos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_buscar_5",
+    "intencion": "cerebro_buscar",
+    "frase": "buscar en el cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_buscar_6",
+    "intencion": "cerebro_buscar",
+    "frase": "muestrame recuerdos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_buscar_7",
+    "intencion": "cerebro_buscar",
+    "frase": "consulta memorias",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_buscar_8",
+    "intencion": "cerebro_buscar",
+    "frase": "puedes buscar en el cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_guardar_1",
+    "intencion": "cerebro_guardar",
+    "frase": "guarda un recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_guardar_2",
+    "intencion": "cerebro_guardar",
+    "frase": "guardar una memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_guardar_3",
+    "intencion": "cerebro_guardar",
+    "frase": "recuerda esto en el cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_guardar_4",
+    "intencion": "cerebro_guardar",
+    "frase": "anota una memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_guardar_5",
+    "intencion": "cerebro_guardar",
+    "frase": "guarda en segundo cerebro",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_guardar_6",
+    "intencion": "cerebro_guardar",
+    "frase": "puedes guardar un recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_guardar_7",
+    "intencion": "cerebro_guardar",
+    "frase": "quiero que guardes una memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_guardar_8",
+    "intencion": "cerebro_guardar",
+    "frase": "guarda un unico recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_corregir_1",
+    "intencion": "cerebro_corregir",
+    "frase": "corrige un recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_corregir_2",
+    "intencion": "cerebro_corregir",
+    "frase": "modifica la memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_corregir_3",
+    "intencion": "cerebro_corregir",
+    "frase": "edita mi recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_corregir_4",
+    "intencion": "cerebro_corregir",
+    "frase": "corregir la memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_corregir_5",
+    "intencion": "cerebro_corregir",
+    "frase": "modificar un recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_corregir_6",
+    "intencion": "cerebro_corregir",
+    "frase": "puedes corregir un recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_corregir_7",
+    "intencion": "cerebro_corregir",
+    "frase": "necesito editar una memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_corregir_8",
+    "intencion": "cerebro_corregir",
+    "frase": "corrige el contenido del recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_olvidar_1",
+    "intencion": "cerebro_olvidar",
+    "frase": "olvida un recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_olvidar_2",
+    "intencion": "cerebro_olvidar",
+    "frase": "olvidar una memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_olvidar_3",
+    "intencion": "cerebro_olvidar",
+    "frase": "borra el recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_olvidar_4",
+    "intencion": "cerebro_olvidar",
+    "frase": "elimina la memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_olvidar_5",
+    "intencion": "cerebro_olvidar",
+    "frase": "borrar un recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_olvidar_6",
+    "intencion": "cerebro_olvidar",
+    "frase": "eliminar una memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_olvidar_7",
+    "intencion": "cerebro_olvidar",
+    "frase": "puedes olvidar este recuerdo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cerebro_olvidar_8",
+    "intencion": "cerebro_olvidar",
+    "frase": "quiero que olvides una memoria",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "jarvis_estado_1",
+    "intencion": "jarvis_estado",
+    "frase": "estado de jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "jarvis_estado_2",
+    "intencion": "jarvis_estado",
+    "frase": "como esta jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "jarvis_estado_3",
+    "intencion": "jarvis_estado",
+    "frase": "jarvis esta funcionando",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "jarvis_estado_4",
+    "intencion": "jarvis_estado",
+    "frase": "dime el estado de jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "jarvis_estado_5",
+    "intencion": "jarvis_estado",
+    "frase": "ver estado jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "jarvis_estado_6",
+    "intencion": "jarvis_estado",
+    "frase": "jarvis cual es tu estado",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "jarvis_estado_7",
+    "intencion": "jarvis_estado",
+    "frase": "que estado tiene jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "jarvis_estado_8",
+    "intencion": "jarvis_estado",
+    "frase": "puedes ver el estado de jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "diagnostico_1",
+    "intencion": "diagnostico",
+    "frase": "diagnostico",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "diagnostico_2",
+    "intencion": "diagnostico",
+    "frase": "diagnostica jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "diagnostico_3",
+    "intencion": "diagnostico",
+    "frase": "diagnosticar ollama",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "diagnostico_4",
+    "intencion": "diagnostico",
+    "frase": "haz un diagnostico de jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "diagnostico_5",
+    "intencion": "diagnostico",
+    "frase": "revisa diagnostico de ollama",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "diagnostico_6",
+    "intencion": "diagnostico",
+    "frase": "diagnostica el equipo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "diagnostico_7",
+    "intencion": "diagnostico",
+    "frase": "diagnostico de jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "diagnostico_8",
+    "intencion": "diagnostico",
+    "frase": "puedes diagnosticar ollama",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "modelo_1",
+    "intencion": "modelo",
+    "frase": "cambia el modelo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "modelo_2",
+    "intencion": "modelo",
+    "frase": "cambiar modelo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "modelo_3",
+    "intencion": "modelo",
+    "frase": "usa qwen",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "modelo_4",
+    "intencion": "modelo",
+    "frase": "usar deepseek",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "modelo_5",
+    "intencion": "modelo",
+    "frase": "modelo automatico",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "modelo_6",
+    "intencion": "modelo",
+    "frase": "modelo aotumatica",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "modelo_7",
+    "intencion": "modelo",
+    "frase": "modelo automsatico",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "modelo_8",
+    "intencion": "modelo",
+    "frase": "quiero usar otro modelo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gpu_liberar_1",
+    "intencion": "gpu_liberar",
+    "frase": "libera la gpu",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gpu_liberar_2",
+    "intencion": "gpu_liberar",
+    "frase": "liberar vram",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gpu_liberar_3",
+    "intencion": "gpu_liberar",
+    "frase": "descarga el modelo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gpu_liberar_4",
+    "intencion": "gpu_liberar",
+    "frase": "descargar los modelos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gpu_liberar_5",
+    "intencion": "gpu_liberar",
+    "frase": "libera memoria gpu",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gpu_liberar_6",
+    "intencion": "gpu_liberar",
+    "frase": "puedes liberar la gpu",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gpu_liberar_7",
+    "intencion": "gpu_liberar",
+    "frase": "liberar el modelo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gpu_liberar_8",
+    "intencion": "gpu_liberar",
+    "frase": "descarga modelo de vram",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "adjuntar_1",
+    "intencion": "adjuntar",
+    "frase": "adjunta el archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "adjuntar_2",
+    "intencion": "adjuntar",
+    "frase": "adjuntar un pdf",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "adjuntar_3",
+    "intencion": "adjuntar",
+    "frase": "anexa el documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "adjuntar_4",
+    "intencion": "adjuntar",
+    "frase": "anexar mi planilla",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "adjuntar_5",
+    "intencion": "adjuntar",
+    "frase": "puedes adjuntar esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "adjuntar_6",
+    "intencion": "adjuntar",
+    "frase": "adjunta notas.txt",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "adjuntar_7",
+    "intencion": "adjuntar",
+    "frase": "quiero adjuntar un archivo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "adjuntar_8",
+    "intencion": "adjuntar",
+    "frase": "necesito anexar un documento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "continuar_1",
+    "intencion": "continuar",
+    "frase": "continua",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "continuar_2",
+    "intencion": "continuar",
+    "frase": "sigue",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "continuar_3",
+    "intencion": "continuar",
+    "frase": "sigamos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "continuar_4",
+    "intencion": "continuar",
+    "frase": "empecemos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "continuar_5",
+    "intencion": "continuar",
+    "frase": "empecemos con el 1",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "continuar_6",
+    "intencion": "continuar",
+    "frase": "SI te confirmo empecemos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "continuar_7",
+    "intencion": "continuar",
+    "frase": "que sigue",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "continuar_8",
+    "intencion": "continuar",
+    "frase": "y ahora",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "reintentar_1",
+    "intencion": "reintentar",
+    "frase": "reintenta",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "reintentar_2",
+    "intencion": "reintentar",
+    "frase": "reintentar",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "reintentar_3",
+    "intencion": "reintentar",
+    "frase": "intenta de nuevo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "reintentar_4",
+    "intencion": "reintentar",
+    "frase": "prueba otra vez",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "reintentar_5",
+    "intencion": "reintentar",
+    "frase": "puedes reintentar",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "reintentar_6",
+    "intencion": "reintentar",
+    "frase": "reintenta ahora",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "reintentar_7",
+    "intencion": "reintentar",
+    "frase": "quiero reintentar",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "reintentar_8",
+    "intencion": "reintentar",
+    "frase": "intenta de nuevo por favor",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cancelar_1",
+    "intencion": "cancelar",
+    "frase": "no",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cancelar_2",
+    "intencion": "cancelar",
+    "frase": "mejor no",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cancelar_3",
+    "intencion": "cancelar",
+    "frase": "para",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cancelar_4",
+    "intencion": "cancelar",
+    "frase": "detente",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cancelar_5",
+    "intencion": "cancelar",
+    "frase": "cancela",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cancelar_6",
+    "intencion": "cancelar",
+    "frase": "espera",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cancelar_7",
+    "intencion": "cancelar",
+    "frase": "no todavia",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "cancelar_8",
+    "intencion": "cancelar",
+    "frase": "otra cosa",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "deshacer_1",
+    "intencion": "deshacer",
+    "frase": "deshaz el cambio",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "deshacer_2",
+    "intencion": "deshacer",
+    "frase": "deshacer el plan",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "deshacer_3",
+    "intencion": "deshacer",
+    "frase": "revierte lo anterior",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "deshacer_4",
+    "intencion": "deshacer",
+    "frase": "revertir el movimiento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "deshacer_5",
+    "intencion": "deshacer",
+    "frase": "puedes deshacer esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "deshacer_6",
+    "intencion": "deshacer",
+    "frase": "deshaz la copia",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "deshacer_7",
+    "intencion": "deshacer",
+    "frase": "quiero deshacer un cambio",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "deshacer_8",
+    "intencion": "deshacer",
+    "frase": "necesito revertir esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "ayuda_1",
+    "intencion": "ayuda",
+    "frase": "ayuda",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "ayuda_2",
+    "intencion": "ayuda",
+    "frase": "ayudame",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "ayuda_3",
+    "intencion": "ayuda",
+    "frase": "que puedes hacer",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "ayuda_4",
+    "intencion": "ayuda",
+    "frase": "que comandos tienes",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "ayuda_5",
+    "intencion": "ayuda",
+    "frase": "puedes ayudarme",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "ayuda_6",
+    "intencion": "ayuda",
+    "frase": "quiero ayuda",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "ayuda_7",
+    "intencion": "ayuda",
+    "frase": "necesito ayuda",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "ayuda_8",
+    "intencion": "ayuda",
+    "frase": "dime que comandos tienes",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "saludo_1",
+    "intencion": "saludo",
+    "frase": "hola",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "saludo_2",
+    "intencion": "saludo",
+    "frase": "hola jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "saludo_3",
+    "intencion": "saludo",
+    "frase": "wena po",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "saludo_4",
+    "intencion": "saludo",
+    "frase": "buenas",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "saludo_5",
+    "intencion": "saludo",
+    "frase": "buenos dias",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "saludo_6",
+    "intencion": "saludo",
+    "frase": "buenas tardes",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "saludo_7",
+    "intencion": "saludo",
+    "frase": "buenas noches",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "saludo_8",
+    "intencion": "saludo",
+    "frase": "holaaa",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "despedida_1",
+    "intencion": "despedida",
+    "frase": "adios",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "despedida_2",
+    "intencion": "despedida",
+    "frase": "chao",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "despedida_3",
+    "intencion": "despedida",
+    "frase": "hasta luego",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "despedida_4",
+    "intencion": "despedida",
+    "frase": "hasta manana",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "despedida_5",
+    "intencion": "despedida",
+    "frase": "nos vemos",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "despedida_6",
+    "intencion": "despedida",
+    "frase": "salir",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "despedida_7",
+    "intencion": "despedida",
+    "frase": "ADIOS",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "despedida_8",
+    "intencion": "despedida",
+    "frase": "Chao",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gracias_1",
+    "intencion": "gracias",
+    "frase": "gracias",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gracias_2",
+    "intencion": "gracias",
+    "frase": "muchas gracias",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gracias_3",
+    "intencion": "gracias",
+    "frase": "gracias jarvis",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gracias_4",
+    "intencion": "gracias",
+    "frase": "gracias por todo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gracias_5",
+    "intencion": "gracias",
+    "frase": "GRACIAS",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gracias_6",
+    "intencion": "gracias",
+    "frase": "muchas GRACIAS",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gracias_7",
+    "intencion": "gracias",
+    "frase": "Gracias",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "gracias_8",
+    "intencion": "gracias",
+    "frase": "Muchas gracias",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "queja_1",
+    "intencion": "queja",
+    "frase": "no funciona",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "queja_2",
+    "intencion": "queja",
+    "frase": "se quedo pegada",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "queja_3",
+    "intencion": "queja",
+    "frase": "no cambio",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "queja_4",
+    "intencion": "queja",
+    "frase": "todo me sale igual",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "queja_5",
+    "intencion": "queja",
+    "frase": "no entiendo lo que dice",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "queja_6",
+    "intencion": "queja",
+    "frase": "me diste la respuesta incompleta",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "queja_7",
+    "intencion": "queja",
+    "frase": "se demora",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "queja_8",
+    "intencion": "queja",
+    "frase": "va lento",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "clima_1",
+    "intencion": "clima",
+    "frase": "consulta el clima",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "clima_2",
+    "intencion": "clima",
+    "frase": "como esta el clima",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "clima_3",
+    "intencion": "clima",
+    "frase": "va a llovera",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "clima_4",
+    "intencion": "clima",
+    "frase": "llueve manana",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "clima_5",
+    "intencion": "clima",
+    "frase": "pronostico del tiempo",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "clima_6",
+    "intencion": "clima",
+    "frase": "temperatura en santiago",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "clima_7",
+    "intencion": "clima",
+    "frase": "clima de hoy",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "clima_8",
+    "intencion": "clima",
+    "frase": "quiero ver el clima",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "internet_1",
+    "intencion": "internet",
+    "frase": "busca en internet",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "internet_2",
+    "intencion": "internet",
+    "frase": "consulta en la web",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "internet_3",
+    "intencion": "internet",
+    "frase": "buscar online",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "internet_4",
+    "intencion": "internet",
+    "frase": "consultar en linea",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "internet_5",
+    "intencion": "internet",
+    "frase": "puedes buscar en internet",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "internet_6",
+    "intencion": "internet",
+    "frase": "busca algo en la web",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "internet_7",
+    "intencion": "internet",
+    "frase": "consulta por internet",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "internet_8",
+    "intencion": "internet",
+    "frase": "buscar en internet un dato",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "precio_1",
+    "intencion": "precio",
+    "frase": "cuanto cuesta esto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "precio_2",
+    "intencion": "precio",
+    "frase": "que precio tiene",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "precio_3",
+    "intencion": "precio",
+    "frase": "dime los precios",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "precio_4",
+    "intencion": "precio",
+    "frase": "valor de un producto",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "precio_5",
+    "intencion": "precio",
+    "frase": "cotiza un computador",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "precio_6",
+    "intencion": "precio",
+    "frase": "cotizar una compra",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "precio_7",
+    "intencion": "precio",
+    "frase": "puedes consultar el precio",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  },
+  {
+    "id": "precio_8",
+    "intencion": "precio",
+    "frase": "cuanto cuesta una botella",
+    "origen": "ampliado",
+    "derivacion": "Redacción manual basada en las categorías y mensajes Usuario: solicitados; no se atribuye esta frase sintética al usuario."
+  }
+]

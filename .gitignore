@@ -1,0 +1,18 @@
+# Datos y configuración de cada instalación
+/datos/
+/registros/
+/respaldos/
+/trabajo/
+/.venv/
+/.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+*.log
+*.bak
+*.orig
+.DS_Store
+/.codex/
+/.agents/
+/.aws/

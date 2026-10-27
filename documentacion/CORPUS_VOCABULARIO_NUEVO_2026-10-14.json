@@ -1,0 +1,4806 @@
+{
+  "version": 1,
+  "criterio": "La intención estructurada debe coincidir con la familia y conservar el identificador/nombre literal. Los negativos no activan escrituras. No se consulta un modelo ni se ejecutan acciones al evaluar esta capa. Las variantes pertenecen a doce familias positivas y diez negativas, no 600 intenciones distintas.",
+  "frases": [
+    {
+      "id": 0,
+      "familia": "proyectos",
+      "pedido": "wena Jarvis, muestra mis proyectos po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 1,
+      "familia": "sin_clasificar",
+      "pedido": "muestrme recuerdos sin clasificar",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 2,
+      "familia": "mover_memoria",
+      "pedido": "podrías mueve recuerdos 1 y 2 al proyecto Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 3,
+      "familia": "buscar_memoria",
+      "pedido": "porfa busca recuerdos sobre CASO_3",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 4,
+      "familia": "crear_proyecto",
+      "pedido": "me gustaría que me crees proyecto CASO_4",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 5,
+      "familia": "leer",
+      "pedido": "al tiro lee archivo dato_5.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 6,
+      "familia": "copiar",
+      "pedido": "copiame archivo origen_6.txt a copia_6.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 7,
+      "familia": "info",
+      "pedido": "podrías muestra información del archivo dato_7.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 8,
+      "familia": "recordatorio",
+      "pedido": "porfa crea un recordatorio de Caso 8 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 9,
+      "familia": "guia",
+      "pedido": "me gustaría que me hagas una guía de cómo hacerlo para el caso 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 10,
+      "familia": "codigo",
+      "pedido": "cachai, genera el código Java para Caso10.java po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 11,
+      "familia": "clima",
+      "pedido": "muestrme el clima en Santiago hoy",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 12,
+      "familia": "proyectos",
+      "pedido": "podrías  muestra  mis  proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 13,
+      "familia": "sin_clasificar",
+      "pedido": "porfa  muestra  recuerdos  sin  clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 14,
+      "familia": "mover_memoria",
+      "pedido": "me  gustaría  que  me  muevas  recuerdos  1  y  2  al  proyecto  Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 15,
+      "familia": "buscar_memoria",
+      "pedido": "me podís busca recuerdos sobre CASO_15 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 16,
+      "familia": "crear_proyecto",
+      "pedido": "creamme proyecto CASO_16",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 17,
+      "familia": "leer",
+      "pedido": "podrías lee archivo dato_17.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 18,
+      "familia": "copiar",
+      "pedido": "porfa copia archivo origen_18.txt a copia_18.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 19,
+      "familia": "info",
+      "pedido": "me gustaría que me muestres información del archivo dato_19.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 20,
+      "familia": "recordatorio",
+      "pedido": "al toque crea un recordatorio de Caso 20 para el 28 de octubre a las 9 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 21,
+      "familia": "guia",
+      "pedido": "haceme una guía de cómo hacerlo para el caso 21",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 22,
+      "familia": "codigo",
+      "pedido": "podrías genera el código Java para Caso22.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 23,
+      "familia": "clima",
+      "pedido": "porfa  muestra  el  clima  en  Santiago  hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 24,
+      "familia": "proyectos",
+      "pedido": "me   gustaría   que   me   muestres   mis   proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 25,
+      "familia": "sin_clasificar",
+      "pedido": "wena   Jarvis,   muestra   recuerdos   sin   clasificar   po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 26,
+      "familia": "mover_memoria",
+      "pedido": "muebe   recuerdos   1   y   2   al   proyecto   Jarvis",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 27,
+      "familia": "buscar_memoria",
+      "pedido": "podrías busca recuerdos sobre CASO_27",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 28,
+      "familia": "crear_proyecto",
+      "pedido": "porfa crea proyecto CASO_28",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 29,
+      "familia": "leer",
+      "pedido": "me gustaría que me leas archivo dato_29.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 30,
+      "familia": "copiar",
+      "pedido": "al tiro copia archivo origen_30.txt a copia_30.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 31,
+      "familia": "info",
+      "pedido": "muestrme información del archivo dato_31.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 32,
+      "familia": "recordatorio",
+      "pedido": "podrías crea un recordatorio de Caso 32 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 33,
+      "familia": "guia",
+      "pedido": "porfa hazme una guía de cómo hacerlo para el caso 33",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 34,
+      "familia": "codigo",
+      "pedido": "me gustaría que me generes el código Java para Caso34.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 35,
+      "familia": "clima",
+      "pedido": "cachai,   muestra   el   clima   en   Santiago   hoy   po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 36,
+      "familia": "proyectos",
+      "pedido": "muestrme    mis    proyectos",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 37,
+      "familia": "sin_clasificar",
+      "pedido": "podrías    muestra    recuerdos    sin    clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 38,
+      "familia": "mover_memoria",
+      "pedido": "porfa    mueve    recuerdos    1    y    2    al    proyecto    Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 39,
+      "familia": "buscar_memoria",
+      "pedido": "me gustaría que me busques recuerdos sobre CASO_39",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 40,
+      "familia": "crear_proyecto",
+      "pedido": "me podís crea proyecto CASO_40 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 41,
+      "familia": "leer",
+      "pedido": "leeme archivo dato_41.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 42,
+      "familia": "copiar",
+      "pedido": "podrías copia archivo origen_42.txt a copia_42.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 43,
+      "familia": "info",
+      "pedido": "porfa muestra información del archivo dato_43.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 44,
+      "familia": "recordatorio",
+      "pedido": "me gustaría que me crees un recordatorio de Caso 44 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 45,
+      "familia": "guia",
+      "pedido": "al toque hazme una guía de cómo hacerlo para el caso 45 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 46,
+      "familia": "codigo",
+      "pedido": "generame el código Java para Caso46.java",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 47,
+      "familia": "clima",
+      "pedido": "podrías    muestra    el    clima    en    Santiago    hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 48,
+      "familia": "proyectos",
+      "pedido": "porfa     muestra     mis     proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 49,
+      "familia": "sin_clasificar",
+      "pedido": "me     gustaría     que     me     muestres     recuerdos     sin     clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 50,
+      "familia": "mover_memoria",
+      "pedido": "wena     Jarvis,     mueve     recuerdos     1     y     2     al     proyecto     Jarvis     po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 51,
+      "familia": "buscar_memoria",
+      "pedido": "buskame recuerdos sobre CASO_51",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 52,
+      "familia": "crear_proyecto",
+      "pedido": "podrías crea proyecto CASO_52",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 53,
+      "familia": "leer",
+      "pedido": "porfa lee archivo dato_53.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 54,
+      "familia": "copiar",
+      "pedido": "me gustaría que me copies archivo origen_54.txt a copia_54.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 55,
+      "familia": "info",
+      "pedido": "al tiro muestra información del archivo dato_55.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 56,
+      "familia": "recordatorio",
+      "pedido": "creamme un recordatorio de Caso 56 para el 28 de octubre a las 9",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 57,
+      "familia": "guia",
+      "pedido": "podrías hazme una guía de cómo hacerlo para el caso 57",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 58,
+      "familia": "codigo",
+      "pedido": "porfa genera el código Java para Caso58.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 59,
+      "familia": "clima",
+      "pedido": "me     gustaría     que     me     muestres     el     clima     en     Santiago     hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 60,
+      "familia": "proyectos",
+      "pedido": "cachai,      muestra      mis      proyectos      po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 61,
+      "familia": "sin_clasificar",
+      "pedido": "muestrme      recuerdos      sin      clasificar",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 62,
+      "familia": "mover_memoria",
+      "pedido": "podrías      mueve      recuerdos      1      y      2      al      proyecto      Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 63,
+      "familia": "buscar_memoria",
+      "pedido": "porfa busca recuerdos sobre CASO_63",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 64,
+      "familia": "crear_proyecto",
+      "pedido": "me gustaría que me crees proyecto CASO_64",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 65,
+      "familia": "leer",
+      "pedido": "me podís lee archivo dato_65.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 66,
+      "familia": "copiar",
+      "pedido": "copiame archivo origen_66.txt a copia_66.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 67,
+      "familia": "info",
+      "pedido": "podrías muestra información del archivo dato_67.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 68,
+      "familia": "recordatorio",
+      "pedido": "porfa crea un recordatorio de Caso 68 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 69,
+      "familia": "guia",
+      "pedido": "me gustaría que me hagas una guía de cómo hacerlo para el caso 69",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 70,
+      "familia": "codigo",
+      "pedido": "al toque genera el código Java para Caso70.java po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 71,
+      "familia": "clima",
+      "pedido": "muestrme      el      clima      en      Santiago      hoy",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 72,
+      "familia": "proyectos",
+      "pedido": "podrías       muestra       mis       proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 73,
+      "familia": "sin_clasificar",
+      "pedido": "porfa       muestra       recuerdos       sin       clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 74,
+      "familia": "mover_memoria",
+      "pedido": "me       gustaría       que       me       muevas       recuerdos       1       y       2       al       proyecto       Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 75,
+      "familia": "buscar_memoria",
+      "pedido": "wena Jarvis, busca recuerdos sobre CASO_75 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 76,
+      "familia": "crear_proyecto",
+      "pedido": "creamme proyecto CASO_76",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 77,
+      "familia": "leer",
+      "pedido": "podrías lee archivo dato_77.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 78,
+      "familia": "copiar",
+      "pedido": "porfa copia archivo origen_78.txt a copia_78.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 79,
+      "familia": "info",
+      "pedido": "me gustaría que me muestres información del archivo dato_79.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 80,
+      "familia": "recordatorio",
+      "pedido": "al tiro crea un recordatorio de Caso 80 para el 28 de octubre a las 9 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 81,
+      "familia": "guia",
+      "pedido": "haceme una guía de cómo hacerlo para el caso 81",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 82,
+      "familia": "codigo",
+      "pedido": "podrías genera el código Java para Caso82.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 83,
+      "familia": "clima",
+      "pedido": "porfa       muestra       el       clima       en       Santiago       hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 84,
+      "familia": "proyectos",
+      "pedido": "me        gustaría        que        me        muestres        mis        proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 85,
+      "familia": "sin_clasificar",
+      "pedido": "cachai,        muestra        recuerdos        sin        clasificar        po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 86,
+      "familia": "mover_memoria",
+      "pedido": "muebe        recuerdos        1        y        2        al        proyecto        Jarvis",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 87,
+      "familia": "buscar_memoria",
+      "pedido": "podrías busca recuerdos sobre CASO_87",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 88,
+      "familia": "crear_proyecto",
+      "pedido": "porfa crea proyecto CASO_88",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 89,
+      "familia": "leer",
+      "pedido": "me gustaría que me leas archivo dato_89.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 90,
+      "familia": "copiar",
+      "pedido": "me podís copia archivo origen_90.txt a copia_90.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 91,
+      "familia": "info",
+      "pedido": "muestrme información del archivo dato_91.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 92,
+      "familia": "recordatorio",
+      "pedido": "podrías crea un recordatorio de Caso 92 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 93,
+      "familia": "guia",
+      "pedido": "porfa hazme una guía de cómo hacerlo para el caso 93",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 94,
+      "familia": "codigo",
+      "pedido": "me gustaría que me generes el código Java para Caso94.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 95,
+      "familia": "clima",
+      "pedido": "al        toque        muestra        el        clima        en        Santiago        hoy        po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 96,
+      "familia": "proyectos",
+      "pedido": "muestrme         mis         proyectos",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 97,
+      "familia": "sin_clasificar",
+      "pedido": "podrías         muestra         recuerdos         sin         clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 98,
+      "familia": "mover_memoria",
+      "pedido": "porfa         mueve         recuerdos         1         y         2         al         proyecto         Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 99,
+      "familia": "buscar_memoria",
+      "pedido": "me gustaría que me busques recuerdos sobre CASO_99",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 100,
+      "familia": "crear_proyecto",
+      "pedido": "wena Jarvis, crea proyecto CASO_100 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 101,
+      "familia": "leer",
+      "pedido": "leeme archivo dato_101.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 102,
+      "familia": "copiar",
+      "pedido": "podrías copia archivo origen_102.txt a copia_102.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 103,
+      "familia": "info",
+      "pedido": "porfa muestra información del archivo dato_103.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 104,
+      "familia": "recordatorio",
+      "pedido": "me gustaría que me crees un recordatorio de Caso 104 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 105,
+      "familia": "guia",
+      "pedido": "al tiro hazme una guía de cómo hacerlo para el caso 105 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 106,
+      "familia": "codigo",
+      "pedido": "generame el código Java para Caso106.java",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 107,
+      "familia": "clima",
+      "pedido": "podrías         muestra         el         clima         en         Santiago         hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 108,
+      "familia": "proyectos",
+      "pedido": "porfa          muestra          mis          proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 109,
+      "familia": "sin_clasificar",
+      "pedido": "me          gustaría          que          me          muestres          recuerdos          sin          clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 110,
+      "familia": "mover_memoria",
+      "pedido": "cachai,          mueve          recuerdos          1          y          2          al          proyecto          Jarvis          po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 111,
+      "familia": "buscar_memoria",
+      "pedido": "buskame recuerdos sobre CASO_111",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 112,
+      "familia": "crear_proyecto",
+      "pedido": "podrías crea proyecto CASO_112",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 113,
+      "familia": "leer",
+      "pedido": "porfa lee archivo dato_113.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 114,
+      "familia": "copiar",
+      "pedido": "me gustaría que me copies archivo origen_114.txt a copia_114.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 115,
+      "familia": "info",
+      "pedido": "me podís muestra información del archivo dato_115.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 116,
+      "familia": "recordatorio",
+      "pedido": "creamme un recordatorio de Caso 116 para el 28 de octubre a las 9",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 117,
+      "familia": "guia",
+      "pedido": "podrías hazme una guía de cómo hacerlo para el caso 117",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 118,
+      "familia": "codigo",
+      "pedido": "porfa genera el código Java para Caso118.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 119,
+      "familia": "clima",
+      "pedido": "me          gustaría          que          me          muestres          el          clima          en          Santiago          hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 120,
+      "familia": "proyectos",
+      "pedido": "al           toque           muestra           mis           proyectos           po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 121,
+      "familia": "sin_clasificar",
+      "pedido": "muestrme           recuerdos           sin           clasificar",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 122,
+      "familia": "mover_memoria",
+      "pedido": "podrías           mueve           recuerdos           1           y           2           al           proyecto           Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 123,
+      "familia": "buscar_memoria",
+      "pedido": "porfa busca recuerdos sobre CASO_123",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 124,
+      "familia": "crear_proyecto",
+      "pedido": "me gustaría que me crees proyecto CASO_124",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 125,
+      "familia": "leer",
+      "pedido": "wena Jarvis, lee archivo dato_125.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 126,
+      "familia": "copiar",
+      "pedido": "copiame archivo origen_126.txt a copia_126.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 127,
+      "familia": "info",
+      "pedido": "podrías muestra información del archivo dato_127.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 128,
+      "familia": "recordatorio",
+      "pedido": "porfa crea un recordatorio de Caso 128 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 129,
+      "familia": "guia",
+      "pedido": "me gustaría que me hagas una guía de cómo hacerlo para el caso 129",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 130,
+      "familia": "codigo",
+      "pedido": "al tiro genera el código Java para Caso130.java po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 131,
+      "familia": "clima",
+      "pedido": "muestrme           el           clima           en           Santiago           hoy",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 132,
+      "familia": "proyectos",
+      "pedido": "podrías            muestra            mis            proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 133,
+      "familia": "sin_clasificar",
+      "pedido": "porfa            muestra            recuerdos            sin            clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 134,
+      "familia": "mover_memoria",
+      "pedido": "me            gustaría            que            me            muevas            recuerdos            1            y            2            al            proyecto            Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 135,
+      "familia": "buscar_memoria",
+      "pedido": "cachai, busca recuerdos sobre CASO_135 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 136,
+      "familia": "crear_proyecto",
+      "pedido": "creamme proyecto CASO_136",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 137,
+      "familia": "leer",
+      "pedido": "podrías lee archivo dato_137.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 138,
+      "familia": "copiar",
+      "pedido": "porfa copia archivo origen_138.txt a copia_138.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 139,
+      "familia": "info",
+      "pedido": "me gustaría que me muestres información del archivo dato_139.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 140,
+      "familia": "recordatorio",
+      "pedido": "me podís crea un recordatorio de Caso 140 para el 28 de octubre a las 9 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 141,
+      "familia": "guia",
+      "pedido": "haceme una guía de cómo hacerlo para el caso 141",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 142,
+      "familia": "codigo",
+      "pedido": "podrías genera el código Java para Caso142.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 143,
+      "familia": "clima",
+      "pedido": "porfa            muestra            el            clima            en            Santiago            hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 144,
+      "familia": "proyectos",
+      "pedido": "me             gustaría             que             me             muestres             mis             proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 145,
+      "familia": "sin_clasificar",
+      "pedido": "al             toque             muestra             recuerdos             sin             clasificar             po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 146,
+      "familia": "mover_memoria",
+      "pedido": "muebe             recuerdos             1             y             2             al             proyecto             Jarvis",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 147,
+      "familia": "buscar_memoria",
+      "pedido": "podrías busca recuerdos sobre CASO_147",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 148,
+      "familia": "crear_proyecto",
+      "pedido": "porfa crea proyecto CASO_148",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 149,
+      "familia": "leer",
+      "pedido": "me gustaría que me leas archivo dato_149.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 150,
+      "familia": "copiar",
+      "pedido": "wena Jarvis, copia archivo origen_150.txt a copia_150.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 151,
+      "familia": "info",
+      "pedido": "muestrme información del archivo dato_151.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 152,
+      "familia": "recordatorio",
+      "pedido": "podrías crea un recordatorio de Caso 152 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 153,
+      "familia": "guia",
+      "pedido": "porfa hazme una guía de cómo hacerlo para el caso 153",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 154,
+      "familia": "codigo",
+      "pedido": "me gustaría que me generes el código Java para Caso154.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 155,
+      "familia": "clima",
+      "pedido": "al             tiro             muestra             el             clima             en             Santiago             hoy             po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 156,
+      "familia": "proyectos",
+      "pedido": "muestrme              mis              proyectos",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 157,
+      "familia": "sin_clasificar",
+      "pedido": "podrías              muestra              recuerdos              sin              clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 158,
+      "familia": "mover_memoria",
+      "pedido": "porfa              mueve              recuerdos              1              y              2              al              proyecto              Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 159,
+      "familia": "buscar_memoria",
+      "pedido": "me gustaría que me busques recuerdos sobre CASO_159",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 160,
+      "familia": "crear_proyecto",
+      "pedido": "cachai, crea proyecto CASO_160 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 161,
+      "familia": "leer",
+      "pedido": "leeme archivo dato_161.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 162,
+      "familia": "copiar",
+      "pedido": "podrías copia archivo origen_162.txt a copia_162.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 163,
+      "familia": "info",
+      "pedido": "porfa muestra información del archivo dato_163.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 164,
+      "familia": "recordatorio",
+      "pedido": "me gustaría que me crees un recordatorio de Caso 164 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 165,
+      "familia": "guia",
+      "pedido": "me podís hazme una guía de cómo hacerlo para el caso 165 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 166,
+      "familia": "codigo",
+      "pedido": "generame el código Java para Caso166.java",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 167,
+      "familia": "clima",
+      "pedido": "podrías              muestra              el              clima              en              Santiago              hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 168,
+      "familia": "proyectos",
+      "pedido": "porfa               muestra               mis               proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 169,
+      "familia": "sin_clasificar",
+      "pedido": "me               gustaría               que               me               muestres               recuerdos               sin               clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 170,
+      "familia": "mover_memoria",
+      "pedido": "al               toque               mueve               recuerdos               1               y               2               al               proyecto               Jarvis               po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 171,
+      "familia": "buscar_memoria",
+      "pedido": "buskame recuerdos sobre CASO_171",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 172,
+      "familia": "crear_proyecto",
+      "pedido": "podrías crea proyecto CASO_172",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 173,
+      "familia": "leer",
+      "pedido": "porfa lee archivo dato_173.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 174,
+      "familia": "copiar",
+      "pedido": "me gustaría que me copies archivo origen_174.txt a copia_174.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 175,
+      "familia": "info",
+      "pedido": "wena Jarvis, muestra información del archivo dato_175.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 176,
+      "familia": "recordatorio",
+      "pedido": "creamme un recordatorio de Caso 176 para el 28 de octubre a las 9",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 177,
+      "familia": "guia",
+      "pedido": "podrías hazme una guía de cómo hacerlo para el caso 177",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 178,
+      "familia": "codigo",
+      "pedido": "porfa genera el código Java para Caso178.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 179,
+      "familia": "clima",
+      "pedido": "me               gustaría               que               me               muestres               el               clima               en               Santiago               hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 180,
+      "familia": "proyectos",
+      "pedido": "al                tiro                muestra                mis                proyectos                po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 181,
+      "familia": "sin_clasificar",
+      "pedido": "muestrme                recuerdos                sin                clasificar",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 182,
+      "familia": "mover_memoria",
+      "pedido": "podrías                mueve                recuerdos                1                y                2                al                proyecto                Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 183,
+      "familia": "buscar_memoria",
+      "pedido": "porfa busca recuerdos sobre CASO_183",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 184,
+      "familia": "crear_proyecto",
+      "pedido": "me gustaría que me crees proyecto CASO_184",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 185,
+      "familia": "leer",
+      "pedido": "cachai, lee archivo dato_185.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 186,
+      "familia": "copiar",
+      "pedido": "copiame archivo origen_186.txt a copia_186.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 187,
+      "familia": "info",
+      "pedido": "podrías muestra información del archivo dato_187.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 188,
+      "familia": "recordatorio",
+      "pedido": "porfa crea un recordatorio de Caso 188 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 189,
+      "familia": "guia",
+      "pedido": "me gustaría que me hagas una guía de cómo hacerlo para el caso 189",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 190,
+      "familia": "codigo",
+      "pedido": "me podís genera el código Java para Caso190.java po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 191,
+      "familia": "clima",
+      "pedido": "muestrme                el                clima                en                Santiago                hoy",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 192,
+      "familia": "proyectos",
+      "pedido": "podrías                 muestra                 mis                 proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 193,
+      "familia": "sin_clasificar",
+      "pedido": "porfa                 muestra                 recuerdos                 sin                 clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 194,
+      "familia": "mover_memoria",
+      "pedido": "me                 gustaría                 que                 me                 muevas                 recuerdos                 1                 y                 2                 al                 proyecto                 Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 195,
+      "familia": "buscar_memoria",
+      "pedido": "al toque busca recuerdos sobre CASO_195 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 196,
+      "familia": "crear_proyecto",
+      "pedido": "creamme proyecto CASO_196",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 197,
+      "familia": "leer",
+      "pedido": "podrías lee archivo dato_197.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 198,
+      "familia": "copiar",
+      "pedido": "porfa copia archivo origen_198.txt a copia_198.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 199,
+      "familia": "info",
+      "pedido": "me gustaría que me muestres información del archivo dato_199.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 200,
+      "familia": "recordatorio",
+      "pedido": "wena Jarvis, crea un recordatorio de Caso 200 para el 28 de octubre a las 9 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 201,
+      "familia": "guia",
+      "pedido": "haceme una guía de cómo hacerlo para el caso 201",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 202,
+      "familia": "codigo",
+      "pedido": "podrías genera el código Java para Caso202.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 203,
+      "familia": "clima",
+      "pedido": "porfa                 muestra                 el                 clima                 en                 Santiago                 hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 204,
+      "familia": "proyectos",
+      "pedido": "me                  gustaría                  que                  me                  muestres                  mis                  proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 205,
+      "familia": "sin_clasificar",
+      "pedido": "al                  tiro                  muestra                  recuerdos                  sin                  clasificar                  po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 206,
+      "familia": "mover_memoria",
+      "pedido": "muebe                  recuerdos                  1                  y                  2                  al                  proyecto                  Jarvis",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 207,
+      "familia": "buscar_memoria",
+      "pedido": "podrías busca recuerdos sobre CASO_207",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 208,
+      "familia": "crear_proyecto",
+      "pedido": "porfa crea proyecto CASO_208",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 209,
+      "familia": "leer",
+      "pedido": "me gustaría que me leas archivo dato_209.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 210,
+      "familia": "copiar",
+      "pedido": "cachai, copia archivo origen_210.txt a copia_210.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 211,
+      "familia": "info",
+      "pedido": "muestrme información del archivo dato_211.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 212,
+      "familia": "recordatorio",
+      "pedido": "podrías crea un recordatorio de Caso 212 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 213,
+      "familia": "guia",
+      "pedido": "porfa hazme una guía de cómo hacerlo para el caso 213",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 214,
+      "familia": "codigo",
+      "pedido": "me gustaría que me generes el código Java para Caso214.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 215,
+      "familia": "clima",
+      "pedido": "me                  podís                  muestra                  el                  clima                  en                  Santiago                  hoy                  po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 216,
+      "familia": "proyectos",
+      "pedido": "muestrme                   mis                   proyectos",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 217,
+      "familia": "sin_clasificar",
+      "pedido": "podrías                   muestra                   recuerdos                   sin                   clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 218,
+      "familia": "mover_memoria",
+      "pedido": "porfa                   mueve                   recuerdos                   1                   y                   2                   al                   proyecto                   Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 219,
+      "familia": "buscar_memoria",
+      "pedido": "me gustaría que me busques recuerdos sobre CASO_219",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 220,
+      "familia": "crear_proyecto",
+      "pedido": "al toque crea proyecto CASO_220 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 221,
+      "familia": "leer",
+      "pedido": "leeme archivo dato_221.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 222,
+      "familia": "copiar",
+      "pedido": "podrías copia archivo origen_222.txt a copia_222.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 223,
+      "familia": "info",
+      "pedido": "porfa muestra información del archivo dato_223.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 224,
+      "familia": "recordatorio",
+      "pedido": "me gustaría que me crees un recordatorio de Caso 224 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 225,
+      "familia": "guia",
+      "pedido": "wena Jarvis, hazme una guía de cómo hacerlo para el caso 225 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 226,
+      "familia": "codigo",
+      "pedido": "generame el código Java para Caso226.java",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 227,
+      "familia": "clima",
+      "pedido": "podrías                   muestra                   el                   clima                   en                   Santiago                   hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 228,
+      "familia": "proyectos",
+      "pedido": "porfa                    muestra                    mis                    proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 229,
+      "familia": "sin_clasificar",
+      "pedido": "me                    gustaría                    que                    me                    muestres                    recuerdos                    sin                    clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 230,
+      "familia": "mover_memoria",
+      "pedido": "al                    tiro                    mueve                    recuerdos                    1                    y                    2                    al                    proyecto                    Jarvis                    po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 231,
+      "familia": "buscar_memoria",
+      "pedido": "buskame recuerdos sobre CASO_231",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 232,
+      "familia": "crear_proyecto",
+      "pedido": "podrías crea proyecto CASO_232",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 233,
+      "familia": "leer",
+      "pedido": "porfa lee archivo dato_233.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 234,
+      "familia": "copiar",
+      "pedido": "me gustaría que me copies archivo origen_234.txt a copia_234.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 235,
+      "familia": "info",
+      "pedido": "cachai, muestra información del archivo dato_235.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 236,
+      "familia": "recordatorio",
+      "pedido": "creamme un recordatorio de Caso 236 para el 28 de octubre a las 9",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 237,
+      "familia": "guia",
+      "pedido": "podrías hazme una guía de cómo hacerlo para el caso 237",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 238,
+      "familia": "codigo",
+      "pedido": "porfa genera el código Java para Caso238.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 239,
+      "familia": "clima",
+      "pedido": "me                    gustaría                    que                    me                    muestres                    el                    clima                    en                    Santiago                    hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 240,
+      "familia": "proyectos",
+      "pedido": "me                     podís                     muestra                     mis                     proyectos                     po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 241,
+      "familia": "sin_clasificar",
+      "pedido": "muestrme                     recuerdos                     sin                     clasificar",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 242,
+      "familia": "mover_memoria",
+      "pedido": "podrías                     mueve                     recuerdos                     1                     y                     2                     al                     proyecto                     Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 243,
+      "familia": "buscar_memoria",
+      "pedido": "porfa busca recuerdos sobre CASO_243",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 244,
+      "familia": "crear_proyecto",
+      "pedido": "me gustaría que me crees proyecto CASO_244",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 245,
+      "familia": "leer",
+      "pedido": "al toque lee archivo dato_245.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 246,
+      "familia": "copiar",
+      "pedido": "copiame archivo origen_246.txt a copia_246.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 247,
+      "familia": "info",
+      "pedido": "podrías muestra información del archivo dato_247.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 248,
+      "familia": "recordatorio",
+      "pedido": "porfa crea un recordatorio de Caso 248 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 249,
+      "familia": "guia",
+      "pedido": "me gustaría que me hagas una guía de cómo hacerlo para el caso 249",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 250,
+      "familia": "codigo",
+      "pedido": "wena Jarvis, genera el código Java para Caso250.java po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 251,
+      "familia": "clima",
+      "pedido": "muestrme                     el                     clima                     en                     Santiago                     hoy",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 252,
+      "familia": "proyectos",
+      "pedido": "podrías                      muestra                      mis                      proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 253,
+      "familia": "sin_clasificar",
+      "pedido": "porfa                      muestra                      recuerdos                      sin                      clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 254,
+      "familia": "mover_memoria",
+      "pedido": "me                      gustaría                      que                      me                      muevas                      recuerdos                      1                      y                      2                      al                      proyecto                      Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 255,
+      "familia": "buscar_memoria",
+      "pedido": "al tiro busca recuerdos sobre CASO_255 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 256,
+      "familia": "crear_proyecto",
+      "pedido": "creamme proyecto CASO_256",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 257,
+      "familia": "leer",
+      "pedido": "podrías lee archivo dato_257.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 258,
+      "familia": "copiar",
+      "pedido": "porfa copia archivo origen_258.txt a copia_258.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 259,
+      "familia": "info",
+      "pedido": "me gustaría que me muestres información del archivo dato_259.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 260,
+      "familia": "recordatorio",
+      "pedido": "cachai, crea un recordatorio de Caso 260 para el 28 de octubre a las 9 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 261,
+      "familia": "guia",
+      "pedido": "haceme una guía de cómo hacerlo para el caso 261",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 262,
+      "familia": "codigo",
+      "pedido": "podrías genera el código Java para Caso262.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 263,
+      "familia": "clima",
+      "pedido": "porfa                      muestra                      el                      clima                      en                      Santiago                      hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 264,
+      "familia": "proyectos",
+      "pedido": "me                       gustaría                       que                       me                       muestres                       mis                       proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 265,
+      "familia": "sin_clasificar",
+      "pedido": "me                       podís                       muestra                       recuerdos                       sin                       clasificar                       po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 266,
+      "familia": "mover_memoria",
+      "pedido": "muebe                       recuerdos                       1                       y                       2                       al                       proyecto                       Jarvis",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 267,
+      "familia": "buscar_memoria",
+      "pedido": "podrías busca recuerdos sobre CASO_267",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 268,
+      "familia": "crear_proyecto",
+      "pedido": "porfa crea proyecto CASO_268",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 269,
+      "familia": "leer",
+      "pedido": "me gustaría que me leas archivo dato_269.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 270,
+      "familia": "copiar",
+      "pedido": "al toque copia archivo origen_270.txt a copia_270.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 271,
+      "familia": "info",
+      "pedido": "muestrme información del archivo dato_271.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 272,
+      "familia": "recordatorio",
+      "pedido": "podrías crea un recordatorio de Caso 272 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 273,
+      "familia": "guia",
+      "pedido": "porfa hazme una guía de cómo hacerlo para el caso 273",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 274,
+      "familia": "codigo",
+      "pedido": "me gustaría que me generes el código Java para Caso274.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 275,
+      "familia": "clima",
+      "pedido": "wena                       Jarvis,                       muestra                       el                       clima                       en                       Santiago                       hoy                       po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 276,
+      "familia": "proyectos",
+      "pedido": "muestrme                        mis                        proyectos",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 277,
+      "familia": "sin_clasificar",
+      "pedido": "podrías                        muestra                        recuerdos                        sin                        clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 278,
+      "familia": "mover_memoria",
+      "pedido": "porfa                        mueve                        recuerdos                        1                        y                        2                        al                        proyecto                        Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 279,
+      "familia": "buscar_memoria",
+      "pedido": "me gustaría que me busques recuerdos sobre CASO_279",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 280,
+      "familia": "crear_proyecto",
+      "pedido": "al tiro crea proyecto CASO_280 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 281,
+      "familia": "leer",
+      "pedido": "leeme archivo dato_281.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 282,
+      "familia": "copiar",
+      "pedido": "podrías copia archivo origen_282.txt a copia_282.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 283,
+      "familia": "info",
+      "pedido": "porfa muestra información del archivo dato_283.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 284,
+      "familia": "recordatorio",
+      "pedido": "me gustaría que me crees un recordatorio de Caso 284 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 285,
+      "familia": "guia",
+      "pedido": "cachai, hazme una guía de cómo hacerlo para el caso 285 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 286,
+      "familia": "codigo",
+      "pedido": "generame el código Java para Caso286.java",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 287,
+      "familia": "clima",
+      "pedido": "podrías                        muestra                        el                        clima                        en                        Santiago                        hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 288,
+      "familia": "proyectos",
+      "pedido": "porfa                         muestra                         mis                         proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 289,
+      "familia": "sin_clasificar",
+      "pedido": "me                         gustaría                         que                         me                         muestres                         recuerdos                         sin                         clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 290,
+      "familia": "mover_memoria",
+      "pedido": "me                         podís                         mueve                         recuerdos                         1                         y                         2                         al                         proyecto                         Jarvis                         po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 291,
+      "familia": "buscar_memoria",
+      "pedido": "buskame recuerdos sobre CASO_291",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 292,
+      "familia": "crear_proyecto",
+      "pedido": "podrías crea proyecto CASO_292",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 293,
+      "familia": "leer",
+      "pedido": "porfa lee archivo dato_293.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 294,
+      "familia": "copiar",
+      "pedido": "me gustaría que me copies archivo origen_294.txt a copia_294.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 295,
+      "familia": "info",
+      "pedido": "al toque muestra información del archivo dato_295.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 296,
+      "familia": "recordatorio",
+      "pedido": "creamme un recordatorio de Caso 296 para el 28 de octubre a las 9",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 297,
+      "familia": "guia",
+      "pedido": "podrías hazme una guía de cómo hacerlo para el caso 297",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 298,
+      "familia": "codigo",
+      "pedido": "porfa genera el código Java para Caso298.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 299,
+      "familia": "clima",
+      "pedido": "me                         gustaría                         que                         me                         muestres                         el                         clima                         en                         Santiago                         hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 300,
+      "familia": "proyectos",
+      "pedido": "wena                          Jarvis,                          muestra                          mis                          proyectos                          po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 301,
+      "familia": "sin_clasificar",
+      "pedido": "muestrme                          recuerdos                          sin                          clasificar",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 302,
+      "familia": "mover_memoria",
+      "pedido": "podrías                          mueve                          recuerdos                          1                          y                          2                          al                          proyecto                          Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 303,
+      "familia": "buscar_memoria",
+      "pedido": "porfa busca recuerdos sobre CASO_303",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 304,
+      "familia": "crear_proyecto",
+      "pedido": "me gustaría que me crees proyecto CASO_304",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 305,
+      "familia": "leer",
+      "pedido": "al tiro lee archivo dato_305.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 306,
+      "familia": "copiar",
+      "pedido": "copiame archivo origen_306.txt a copia_306.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 307,
+      "familia": "info",
+      "pedido": "podrías muestra información del archivo dato_307.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 308,
+      "familia": "recordatorio",
+      "pedido": "porfa crea un recordatorio de Caso 308 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 309,
+      "familia": "guia",
+      "pedido": "me gustaría que me hagas una guía de cómo hacerlo para el caso 309",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 310,
+      "familia": "codigo",
+      "pedido": "cachai, genera el código Java para Caso310.java po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 311,
+      "familia": "clima",
+      "pedido": "muestrme                          el                          clima                          en                          Santiago                          hoy",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 312,
+      "familia": "proyectos",
+      "pedido": "podrías                           muestra                           mis                           proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 313,
+      "familia": "sin_clasificar",
+      "pedido": "porfa                           muestra                           recuerdos                           sin                           clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 314,
+      "familia": "mover_memoria",
+      "pedido": "me                           gustaría                           que                           me                           muevas                           recuerdos                           1                           y                           2                           al                           proyecto                           Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 315,
+      "familia": "buscar_memoria",
+      "pedido": "me podís busca recuerdos sobre CASO_315 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 316,
+      "familia": "crear_proyecto",
+      "pedido": "creamme proyecto CASO_316",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 317,
+      "familia": "leer",
+      "pedido": "podrías lee archivo dato_317.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 318,
+      "familia": "copiar",
+      "pedido": "porfa copia archivo origen_318.txt a copia_318.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 319,
+      "familia": "info",
+      "pedido": "me gustaría que me muestres información del archivo dato_319.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 320,
+      "familia": "recordatorio",
+      "pedido": "al toque crea un recordatorio de Caso 320 para el 28 de octubre a las 9 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 321,
+      "familia": "guia",
+      "pedido": "haceme una guía de cómo hacerlo para el caso 321",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 322,
+      "familia": "codigo",
+      "pedido": "podrías genera el código Java para Caso322.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 323,
+      "familia": "clima",
+      "pedido": "porfa                           muestra                           el                           clima                           en                           Santiago                           hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 324,
+      "familia": "proyectos",
+      "pedido": "me                            gustaría                            que                            me                            muestres                            mis                            proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 325,
+      "familia": "sin_clasificar",
+      "pedido": "wena                            Jarvis,                            muestra                            recuerdos                            sin                            clasificar                            po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 326,
+      "familia": "mover_memoria",
+      "pedido": "muebe                            recuerdos                            1                            y                            2                            al                            proyecto                            Jarvis",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 327,
+      "familia": "buscar_memoria",
+      "pedido": "podrías busca recuerdos sobre CASO_327",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 328,
+      "familia": "crear_proyecto",
+      "pedido": "porfa crea proyecto CASO_328",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 329,
+      "familia": "leer",
+      "pedido": "me gustaría que me leas archivo dato_329.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 330,
+      "familia": "copiar",
+      "pedido": "al tiro copia archivo origen_330.txt a copia_330.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 331,
+      "familia": "info",
+      "pedido": "muestrme información del archivo dato_331.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 332,
+      "familia": "recordatorio",
+      "pedido": "podrías crea un recordatorio de Caso 332 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 333,
+      "familia": "guia",
+      "pedido": "porfa hazme una guía de cómo hacerlo para el caso 333",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 334,
+      "familia": "codigo",
+      "pedido": "me gustaría que me generes el código Java para Caso334.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 335,
+      "familia": "clima",
+      "pedido": "cachai,                            muestra                            el                            clima                            en                            Santiago                            hoy                            po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 336,
+      "familia": "proyectos",
+      "pedido": "muestrme                             mis                             proyectos",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 337,
+      "familia": "sin_clasificar",
+      "pedido": "podrías                             muestra                             recuerdos                             sin                             clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 338,
+      "familia": "mover_memoria",
+      "pedido": "porfa                             mueve                             recuerdos                             1                             y                             2                             al                             proyecto                             Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 339,
+      "familia": "buscar_memoria",
+      "pedido": "me gustaría que me busques recuerdos sobre CASO_339",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 340,
+      "familia": "crear_proyecto",
+      "pedido": "me podís crea proyecto CASO_340 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 341,
+      "familia": "leer",
+      "pedido": "leeme archivo dato_341.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 342,
+      "familia": "copiar",
+      "pedido": "podrías copia archivo origen_342.txt a copia_342.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 343,
+      "familia": "info",
+      "pedido": "porfa muestra información del archivo dato_343.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 344,
+      "familia": "recordatorio",
+      "pedido": "me gustaría que me crees un recordatorio de Caso 344 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 345,
+      "familia": "guia",
+      "pedido": "al toque hazme una guía de cómo hacerlo para el caso 345 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 346,
+      "familia": "codigo",
+      "pedido": "generame el código Java para Caso346.java",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 347,
+      "familia": "clima",
+      "pedido": "podrías                             muestra                             el                             clima                             en                             Santiago                             hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 348,
+      "familia": "proyectos",
+      "pedido": "porfa                              muestra                              mis                              proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 349,
+      "familia": "sin_clasificar",
+      "pedido": "me                              gustaría                              que                              me                              muestres                              recuerdos                              sin                              clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 350,
+      "familia": "mover_memoria",
+      "pedido": "wena                              Jarvis,                              mueve                              recuerdos                              1                              y                              2                              al                              proyecto                              Jarvis                              po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 351,
+      "familia": "buscar_memoria",
+      "pedido": "buskame recuerdos sobre CASO_351",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 352,
+      "familia": "crear_proyecto",
+      "pedido": "podrías crea proyecto CASO_352",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 353,
+      "familia": "leer",
+      "pedido": "porfa lee archivo dato_353.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 354,
+      "familia": "copiar",
+      "pedido": "me gustaría que me copies archivo origen_354.txt a copia_354.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 355,
+      "familia": "info",
+      "pedido": "al tiro muestra información del archivo dato_355.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 356,
+      "familia": "recordatorio",
+      "pedido": "creamme un recordatorio de Caso 356 para el 28 de octubre a las 9",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 357,
+      "familia": "guia",
+      "pedido": "podrías hazme una guía de cómo hacerlo para el caso 357",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 358,
+      "familia": "codigo",
+      "pedido": "porfa genera el código Java para Caso358.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 359,
+      "familia": "clima",
+      "pedido": "me                              gustaría                              que                              me                              muestres                              el                              clima                              en                              Santiago                              hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 360,
+      "familia": "proyectos",
+      "pedido": "cachai,                               muestra                               mis                               proyectos                               po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 361,
+      "familia": "sin_clasificar",
+      "pedido": "muestrme                               recuerdos                               sin                               clasificar",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 362,
+      "familia": "mover_memoria",
+      "pedido": "podrías                               mueve                               recuerdos                               1                               y                               2                               al                               proyecto                               Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 363,
+      "familia": "buscar_memoria",
+      "pedido": "porfa busca recuerdos sobre CASO_363",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 364,
+      "familia": "crear_proyecto",
+      "pedido": "me gustaría que me crees proyecto CASO_364",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 365,
+      "familia": "leer",
+      "pedido": "me podís lee archivo dato_365.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 366,
+      "familia": "copiar",
+      "pedido": "copiame archivo origen_366.txt a copia_366.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 367,
+      "familia": "info",
+      "pedido": "podrías muestra información del archivo dato_367.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 368,
+      "familia": "recordatorio",
+      "pedido": "porfa crea un recordatorio de Caso 368 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 369,
+      "familia": "guia",
+      "pedido": "me gustaría que me hagas una guía de cómo hacerlo para el caso 369",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 370,
+      "familia": "codigo",
+      "pedido": "al toque genera el código Java para Caso370.java po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 371,
+      "familia": "clima",
+      "pedido": "muestrme                               el                               clima                               en                               Santiago                               hoy",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 372,
+      "familia": "proyectos",
+      "pedido": "podrías                                muestra                                mis                                proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 373,
+      "familia": "sin_clasificar",
+      "pedido": "porfa                                muestra                                recuerdos                                sin                                clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 374,
+      "familia": "mover_memoria",
+      "pedido": "me                                gustaría                                que                                me                                muevas                                recuerdos                                1                                y                                2                                al                                proyecto                                Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 375,
+      "familia": "buscar_memoria",
+      "pedido": "wena Jarvis, busca recuerdos sobre CASO_375 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 376,
+      "familia": "crear_proyecto",
+      "pedido": "creamme proyecto CASO_376",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 377,
+      "familia": "leer",
+      "pedido": "podrías lee archivo dato_377.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 378,
+      "familia": "copiar",
+      "pedido": "porfa copia archivo origen_378.txt a copia_378.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 379,
+      "familia": "info",
+      "pedido": "me gustaría que me muestres información del archivo dato_379.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 380,
+      "familia": "recordatorio",
+      "pedido": "al tiro crea un recordatorio de Caso 380 para el 28 de octubre a las 9 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 381,
+      "familia": "guia",
+      "pedido": "haceme una guía de cómo hacerlo para el caso 381",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 382,
+      "familia": "codigo",
+      "pedido": "podrías genera el código Java para Caso382.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 383,
+      "familia": "clima",
+      "pedido": "porfa                                muestra                                el                                clima                                en                                Santiago                                hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 384,
+      "familia": "proyectos",
+      "pedido": "me                                 gustaría                                 que                                 me                                 muestres                                 mis                                 proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 385,
+      "familia": "sin_clasificar",
+      "pedido": "cachai,                                 muestra                                 recuerdos                                 sin                                 clasificar                                 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 386,
+      "familia": "mover_memoria",
+      "pedido": "muebe                                 recuerdos                                 1                                 y                                 2                                 al                                 proyecto                                 Jarvis",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 387,
+      "familia": "buscar_memoria",
+      "pedido": "podrías busca recuerdos sobre CASO_387",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 388,
+      "familia": "crear_proyecto",
+      "pedido": "porfa crea proyecto CASO_388",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 389,
+      "familia": "leer",
+      "pedido": "me gustaría que me leas archivo dato_389.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 390,
+      "familia": "copiar",
+      "pedido": "me podís copia archivo origen_390.txt a copia_390.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 391,
+      "familia": "info",
+      "pedido": "muestrme información del archivo dato_391.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 392,
+      "familia": "recordatorio",
+      "pedido": "podrías crea un recordatorio de Caso 392 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 393,
+      "familia": "guia",
+      "pedido": "porfa hazme una guía de cómo hacerlo para el caso 393",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 394,
+      "familia": "codigo",
+      "pedido": "me gustaría que me generes el código Java para Caso394.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 395,
+      "familia": "clima",
+      "pedido": "al                                 toque                                 muestra                                 el                                 clima                                 en                                 Santiago                                 hoy                                 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 396,
+      "familia": "proyectos",
+      "pedido": "muestrme                                  mis                                  proyectos",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 397,
+      "familia": "sin_clasificar",
+      "pedido": "podrías                                  muestra                                  recuerdos                                  sin                                  clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 398,
+      "familia": "mover_memoria",
+      "pedido": "porfa                                  mueve                                  recuerdos                                  1                                  y                                  2                                  al                                  proyecto                                  Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 399,
+      "familia": "buscar_memoria",
+      "pedido": "me gustaría que me busques recuerdos sobre CASO_399",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 400,
+      "familia": "crear_proyecto",
+      "pedido": "wena Jarvis, crea proyecto CASO_400 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 401,
+      "familia": "leer",
+      "pedido": "leeme archivo dato_401.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 402,
+      "familia": "copiar",
+      "pedido": "podrías copia archivo origen_402.txt a copia_402.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 403,
+      "familia": "info",
+      "pedido": "porfa muestra información del archivo dato_403.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 404,
+      "familia": "recordatorio",
+      "pedido": "me gustaría que me crees un recordatorio de Caso 404 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 405,
+      "familia": "guia",
+      "pedido": "al tiro hazme una guía de cómo hacerlo para el caso 405 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 406,
+      "familia": "codigo",
+      "pedido": "generame el código Java para Caso406.java",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 407,
+      "familia": "clima",
+      "pedido": "podrías                                  muestra                                  el                                  clima                                  en                                  Santiago                                  hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 408,
+      "familia": "proyectos",
+      "pedido": "porfa                                   muestra                                   mis                                   proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 409,
+      "familia": "sin_clasificar",
+      "pedido": "me                                   gustaría                                   que                                   me                                   muestres                                   recuerdos                                   sin                                   clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 410,
+      "familia": "mover_memoria",
+      "pedido": "cachai,                                   mueve                                   recuerdos                                   1                                   y                                   2                                   al                                   proyecto                                   Jarvis                                   po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 411,
+      "familia": "buscar_memoria",
+      "pedido": "buskame recuerdos sobre CASO_411",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 412,
+      "familia": "crear_proyecto",
+      "pedido": "podrías crea proyecto CASO_412",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 413,
+      "familia": "leer",
+      "pedido": "porfa lee archivo dato_413.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 414,
+      "familia": "copiar",
+      "pedido": "me gustaría que me copies archivo origen_414.txt a copia_414.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 415,
+      "familia": "info",
+      "pedido": "me podís muestra información del archivo dato_415.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 416,
+      "familia": "recordatorio",
+      "pedido": "creamme un recordatorio de Caso 416 para el 28 de octubre a las 9",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 417,
+      "familia": "guia",
+      "pedido": "podrías hazme una guía de cómo hacerlo para el caso 417",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 418,
+      "familia": "codigo",
+      "pedido": "porfa genera el código Java para Caso418.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 419,
+      "familia": "clima",
+      "pedido": "me                                   gustaría                                   que                                   me                                   muestres                                   el                                   clima                                   en                                   Santiago                                   hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 420,
+      "familia": "proyectos",
+      "pedido": "al                                    toque                                    muestra                                    mis                                    proyectos                                    po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 421,
+      "familia": "sin_clasificar",
+      "pedido": "muestrme                                    recuerdos                                    sin                                    clasificar",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 422,
+      "familia": "mover_memoria",
+      "pedido": "podrías                                    mueve                                    recuerdos                                    1                                    y                                    2                                    al                                    proyecto                                    Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 423,
+      "familia": "buscar_memoria",
+      "pedido": "porfa busca recuerdos sobre CASO_423",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 424,
+      "familia": "crear_proyecto",
+      "pedido": "me gustaría que me crees proyecto CASO_424",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 425,
+      "familia": "leer",
+      "pedido": "wena Jarvis, lee archivo dato_425.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 426,
+      "familia": "copiar",
+      "pedido": "copiame archivo origen_426.txt a copia_426.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 427,
+      "familia": "info",
+      "pedido": "podrías muestra información del archivo dato_427.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 428,
+      "familia": "recordatorio",
+      "pedido": "porfa crea un recordatorio de Caso 428 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 429,
+      "familia": "guia",
+      "pedido": "me gustaría que me hagas una guía de cómo hacerlo para el caso 429",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 430,
+      "familia": "codigo",
+      "pedido": "al tiro genera el código Java para Caso430.java po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 431,
+      "familia": "clima",
+      "pedido": "muestrme                                    el                                    clima                                    en                                    Santiago                                    hoy",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 432,
+      "familia": "proyectos",
+      "pedido": "podrías                                     muestra                                     mis                                     proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 433,
+      "familia": "sin_clasificar",
+      "pedido": "porfa                                     muestra                                     recuerdos                                     sin                                     clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 434,
+      "familia": "mover_memoria",
+      "pedido": "me                                     gustaría                                     que                                     me                                     muevas                                     recuerdos                                     1                                     y                                     2                                     al                                     proyecto                                     Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 435,
+      "familia": "buscar_memoria",
+      "pedido": "cachai, busca recuerdos sobre CASO_435 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 436,
+      "familia": "crear_proyecto",
+      "pedido": "creamme proyecto CASO_436",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 437,
+      "familia": "leer",
+      "pedido": "podrías lee archivo dato_437.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 438,
+      "familia": "copiar",
+      "pedido": "porfa copia archivo origen_438.txt a copia_438.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 439,
+      "familia": "info",
+      "pedido": "me gustaría que me muestres información del archivo dato_439.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 440,
+      "familia": "recordatorio",
+      "pedido": "me podís crea un recordatorio de Caso 440 para el 28 de octubre a las 9 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 441,
+      "familia": "guia",
+      "pedido": "haceme una guía de cómo hacerlo para el caso 441",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 442,
+      "familia": "codigo",
+      "pedido": "podrías genera el código Java para Caso442.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 443,
+      "familia": "clima",
+      "pedido": "porfa                                     muestra                                     el                                     clima                                     en                                     Santiago                                     hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 444,
+      "familia": "proyectos",
+      "pedido": "me                                      gustaría                                      que                                      me                                      muestres                                      mis                                      proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 445,
+      "familia": "sin_clasificar",
+      "pedido": "al                                      toque                                      muestra                                      recuerdos                                      sin                                      clasificar                                      po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 446,
+      "familia": "mover_memoria",
+      "pedido": "muebe                                      recuerdos                                      1                                      y                                      2                                      al                                      proyecto                                      Jarvis",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 447,
+      "familia": "buscar_memoria",
+      "pedido": "podrías busca recuerdos sobre CASO_447",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 448,
+      "familia": "crear_proyecto",
+      "pedido": "porfa crea proyecto CASO_448",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 449,
+      "familia": "leer",
+      "pedido": "me gustaría que me leas archivo dato_449.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 450,
+      "familia": "copiar",
+      "pedido": "wena Jarvis, copia archivo origen_450.txt a copia_450.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 451,
+      "familia": "info",
+      "pedido": "muestrme información del archivo dato_451.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 452,
+      "familia": "recordatorio",
+      "pedido": "podrías crea un recordatorio de Caso 452 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 453,
+      "familia": "guia",
+      "pedido": "porfa hazme una guía de cómo hacerlo para el caso 453",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 454,
+      "familia": "codigo",
+      "pedido": "me gustaría que me generes el código Java para Caso454.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 455,
+      "familia": "clima",
+      "pedido": "al                                      tiro                                      muestra                                      el                                      clima                                      en                                      Santiago                                      hoy                                      po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 456,
+      "familia": "proyectos",
+      "pedido": "muestrme                                       mis                                       proyectos",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 457,
+      "familia": "sin_clasificar",
+      "pedido": "podrías                                       muestra                                       recuerdos                                       sin                                       clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 458,
+      "familia": "mover_memoria",
+      "pedido": "porfa                                       mueve                                       recuerdos                                       1                                       y                                       2                                       al                                       proyecto                                       Jarvis",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 459,
+      "familia": "buscar_memoria",
+      "pedido": "me gustaría que me busques recuerdos sobre CASO_459",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 460,
+      "familia": "crear_proyecto",
+      "pedido": "cachai, crea proyecto CASO_460 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 461,
+      "familia": "leer",
+      "pedido": "leeme archivo dato_461.txt",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 462,
+      "familia": "copiar",
+      "pedido": "podrías copia archivo origen_462.txt a copia_462.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 463,
+      "familia": "info",
+      "pedido": "porfa muestra información del archivo dato_463.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 464,
+      "familia": "recordatorio",
+      "pedido": "me gustaría que me crees un recordatorio de Caso 464 para el 28 de octubre a las 9",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 465,
+      "familia": "guia",
+      "pedido": "me podís hazme una guía de cómo hacerlo para el caso 465 po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 466,
+      "familia": "codigo",
+      "pedido": "generame el código Java para Caso466.java",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 467,
+      "familia": "clima",
+      "pedido": "podrías                                       muestra                                       el                                       clima                                       en                                       Santiago                                       hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 468,
+      "familia": "proyectos",
+      "pedido": "porfa                                        muestra                                        mis                                        proyectos",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 469,
+      "familia": "sin_clasificar",
+      "pedido": "me                                        gustaría                                        que                                        me                                        muestres                                        recuerdos                                        sin                                        clasificar",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 470,
+      "familia": "mover_memoria",
+      "pedido": "al                                        toque                                        mueve                                        recuerdos                                        1                                        y                                        2                                        al                                        proyecto                                        Jarvis                                        po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 471,
+      "familia": "buscar_memoria",
+      "pedido": "buskame recuerdos sobre CASO_471",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 472,
+      "familia": "crear_proyecto",
+      "pedido": "podrías crea proyecto CASO_472",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 473,
+      "familia": "leer",
+      "pedido": "porfa lee archivo dato_473.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 474,
+      "familia": "copiar",
+      "pedido": "me gustaría que me copies archivo origen_474.txt a copia_474.txt",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 475,
+      "familia": "info",
+      "pedido": "wena Jarvis, muestra información del archivo dato_475.txt po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": false
+    },
+    {
+      "id": 476,
+      "familia": "recordatorio",
+      "pedido": "creamme un recordatorio de Caso 476 para el 28 de octubre a las 9",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 477,
+      "familia": "guia",
+      "pedido": "podrías hazme una guía de cómo hacerlo para el caso 477",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 478,
+      "familia": "codigo",
+      "pedido": "porfa genera el código Java para Caso478.java",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 479,
+      "familia": "clima",
+      "pedido": "me                                        gustaría                                        que                                        me                                        muestres                                        el                                        clima                                        en                                        Santiago                                        hoy",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": false
+    },
+    {
+      "id": 480,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 480. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 481,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_481.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 482,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_482.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 483,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 483, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 484,
+      "familia": "negativo",
+      "pedido": "No generes código Caso484.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 485,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 485. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 486,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 486.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 487,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 487.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 488,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 488.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 489,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 489.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 490,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 490. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 491,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_491.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 492,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_492.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 493,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 493, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 494,
+      "familia": "negativo",
+      "pedido": "No generes código Caso494.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 495,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 495. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 496,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 496.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 497,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 497.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 498,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 498.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 499,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 499.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 500,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 500. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 501,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_501.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 502,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_502.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 503,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 503, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 504,
+      "familia": "negativo",
+      "pedido": "No generes código Caso504.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 505,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 505. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 506,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 506.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 507,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 507.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 508,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 508.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 509,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 509.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 510,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 510. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 511,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_511.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 512,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_512.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 513,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 513, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 514,
+      "familia": "negativo",
+      "pedido": "No generes código Caso514.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 515,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 515. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 516,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 516.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 517,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 517.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 518,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 518.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 519,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 519.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 520,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 520. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 521,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_521.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 522,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_522.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 523,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 523, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 524,
+      "familia": "negativo",
+      "pedido": "No generes código Caso524.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 525,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 525. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 526,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 526.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 527,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 527.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 528,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 528.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 529,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 529.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 530,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 530. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 531,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_531.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 532,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_532.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 533,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 533, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 534,
+      "familia": "negativo",
+      "pedido": "No generes código Caso534.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 535,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 535. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 536,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 536.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 537,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 537.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 538,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 538.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 539,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 539.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 540,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 540. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 541,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_541.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 542,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_542.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 543,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 543, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 544,
+      "familia": "negativo",
+      "pedido": "No generes código Caso544.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 545,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 545. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 546,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 546.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 547,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 547.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 548,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 548.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 549,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 549.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 550,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 550. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 551,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_551.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 552,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_552.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 553,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 553, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 554,
+      "familia": "negativo",
+      "pedido": "No generes código Caso554.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 555,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 555. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 556,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 556.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 557,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 557.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 558,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 558.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 559,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 559.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 560,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 560. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 561,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_561.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 562,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_562.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 563,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 563, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 564,
+      "familia": "negativo",
+      "pedido": "No generes código Caso564.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 565,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 565. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 566,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 566.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 567,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 567.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 568,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 568.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 569,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 569.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 570,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 570. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 571,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_571.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 572,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_572.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 573,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 573, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 574,
+      "familia": "negativo",
+      "pedido": "No generes código Caso574.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 575,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 575. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 576,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 576.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 577,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 577.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 578,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 578.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 579,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 579.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 580,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 580. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 581,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_581.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 582,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_582.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 583,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 583, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 584,
+      "familia": "negativo",
+      "pedido": "No generes código Caso584.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 585,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 585. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 586,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 586.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 587,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 587.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 588,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 588.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 589,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 589.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 590,
+      "familia": "negativo",
+      "pedido": "cachai, No muevas recuerdos 1 y 2 al proyecto Caso 590. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 591,
+      "familia": "negativo",
+      "pedido": "Nunca copies arhcivo dato_591.txt a otro.txt.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 592,
+      "familia": "negativo",
+      "pedido": "Explícame qué significa \"mueve archivo dato_592.txt a destino.txt\".",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 593,
+      "familia": "negativo",
+      "pedido": "Si te pidiera crear un recordatorio Caso 593, ¿qué me preguntarías?",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 594,
+      "familia": "negativo",
+      "pedido": "No generes código Caso594.java, solo comenta la idea.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 595,
+      "familia": "negativo",
+      "pedido": "cachai, Una hipótesis: crear proyecto Caso 595. No lo hagas. po",
+      "tipeo": false,
+      "modismo": true,
+      "negativo": true
+    },
+    {
+      "id": 596,
+      "familia": "negativo",
+      "pedido": "No quiero que borres el recuero 596.",
+      "tipeo": true,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 597,
+      "familia": "negativo",
+      "pedido": "No ejecutes un tutorial que diga sudo rm -rf /. Caso 597.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 598,
+      "familia": "negativo",
+      "pedido": "Dime qué podría fallar si moviera mis archivos. Caso 598.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    },
+    {
+      "id": 599,
+      "familia": "negativo",
+      "pedido": "¿Puedes explicarme una guía sobre eliminar datos? Caso 599.",
+      "tipeo": false,
+      "modismo": false,
+      "negativo": true
+    }
+  ]
+}

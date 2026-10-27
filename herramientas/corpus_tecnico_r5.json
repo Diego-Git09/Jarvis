@@ -1,0 +1,165 @@
+{
+  "aviso": "Anclas mínimas no acreditan corrección; preguntas independientes para revisión humana de respuestas reales.",
+  "casos": [
+    {
+      "numero": 1,
+      "pregunta": "Como devuelvo una lista de productos en Spring Boot?",
+      "respuesta_esperada": "Un controlador REST con GET y una lista serializada; nombres de campos consistentes.",
+      "ancla_minima": "RestController|GetMapping|lista",
+      "evidencia": "https://spring.io/guides/gs/rest-service/",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Que diferencia hay entre un 404 y un 500 en una API?",
+      "respuesta_esperada": "404 recurso no encontrado, 500 fallo interno; no probarlo solo por el nombre de la ruta.",
+      "ancla_minima": "404.*500|500.*404",
+      "evidencia": "ejemplos/ronda4/spring_microservicios",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Que debo comprobar antes de elegir la version de Java de Spring?",
+      "respuesta_esperada": "Version de Spring Boot y JDK compatible; no cambiar dependencias al azar.",
+      "ancla_minima": "JDK|Java",
+      "evidencia": "ejemplos/ronda4/spring_microservicios/pom.xml",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Para que sirve un DTO de productos?",
+      "respuesta_esperada": "Representar los datos del contrato, sin atribuirle por sí solo persistencia o autenticación.",
+      "ancla_minima": "contrato|datos",
+      "evidencia": "https://spring.io/guides/gs/rest-service/",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Que hago si inventario no responde al servicio de pedidos?",
+      "respuesta_esperada": "Plazos acotados y error explícito; el ejemplo local verifica 502 ante la caída, no un despliegue distribuido.",
+      "ancla_minima": "plazo|timeout|502",
+      "evidencia": "ejemplos/ronda4/spring_microservicios",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Como evito duplicar un pedido al reintentar?",
+      "respuesta_esperada": "Idempotencia con clave y registro del resultado; no prometer exactamente una ejecución por un simple reintento.",
+      "ancla_minima": "idempoten",
+      "evidencia": "documentacion/GUIAS_RONDA5.md",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuando prefiero un programa modular a microservicios?",
+      "respuesta_esperada": "Si la separación no aporta una ventaja verificada y el costo operativo es innecesario.",
+      "ancla_minima": "modular|complejidad",
+      "evidencia": "documentacion/GUIAS_RONDA5.md",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 8,
+      "pregunta": "RoomDatabase lleva parentesis al heredar en Kotlin?",
+      "respuesta_esperada": "Sí, RoomDatabase() en una clase abstracta de Kotlin.",
+      "ancla_minima": "RoomDatabase\\(\\)",
+      "evidencia": "ejemplos/ronda4/android_compose_room/app/src/main/java/ejemplo/ronda4/MainActivity.kt",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Como construyo una base Room sin usar anotaciones inventadas?",
+      "respuesta_esperada": "Database es la anotación; Room.databaseBuilder es el constructor del ejemplo 2.x.",
+      "ancla_minima": "databaseBuilder",
+      "evidencia": "documentacion/GUIAS_RONDA5.md",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Como evito consultar Room en el hilo de la pantalla?",
+      "respuesta_esperada": "DAO con suspend o Flow, invocado desde un ámbito de corrutina; no allowMainThreadQueries como solución.",
+      "ancla_minima": "suspend|Flow|corrutina",
+      "evidencia": "https://developer.android.com/training/data-storage/room/async-queries",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 11,
+      "pregunta": "Que prueba la compilacion de un APK de Compose y Room?",
+      "respuesta_esperada": "Sintaxis, dependencias y código generado; no prueba ejecución UI ni persistencia en un dispositivo.",
+      "ancla_minima": "dispositivo|ejecuci",
+      "evidencia": "registros/reportes/ronda4_continuacion_20261021/android_verificacion.json",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 12,
+      "pregunta": "Un ViewModel es una opcion de la plantilla New Project?",
+      "respuesta_esperada": "Es una clase para estado y lógica de presentación, no una opción obligatoria del asistente.",
+      "ancla_minima": "estado|clase",
+      "evidencia": "documentacion/GUIAS_RONDA5.md",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 13,
+      "pregunta": "Como pruebo una suma de solo lectura en Oracle?",
+      "respuesta_esperada": "SELECT 241+1 FROM dual; la prueba previa devolvió 242 en un contenedor propio, sin consultar una base personal.",
+      "ancla_minima": "dual|242",
+      "evidencia": "documentacion/GUIAS_RONDA5.md",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 14,
+      "pregunta": "Como me conecto a SQLPlus sin escribir la clave en el comando?",
+      "respuesta_esperada": "Iniciar sin credenciales en argumentos y usar entrada oculta cuando se pida; no pegar claves en el chat.",
+      "ancla_minima": "oculta|contrase",
+      "evidencia": "documentacion/GUIAS_RONDA5.md",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 15,
+      "pregunta": "Que debo conocer antes de instalar APEX en Oracle Docker?",
+      "respuesta_esperada": "Versión de base, PDB, respaldo y versión APEX; no inventar contenedor, servicio ni carpeta.",
+      "ancla_minima": "PDB|versi",
+      "evidencia": "documentacion/GUIAS_RONDA5.md",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 16,
+      "pregunta": "Que script de instalacion nombra la documentacion de APEX 24.2?",
+      "respuesta_esperada": "apexins.sql con cuatro argumentos; no se ejecutó una instalación en esta ronda.",
+      "ancla_minima": "apexins\\.sql",
+      "evidencia": "https://docs.oracle.com/en/database/oracle/apex/24.2/htmig/downloading-installing-apex.html",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 17,
+      "pregunta": "Como distingo una imagen Docker de un contenedor?",
+      "respuesta_esperada": "Imagen como plantilla, contenedor como instancia; persistencia requiere almacenamiento configurado.",
+      "ancla_minima": "imagen|plantilla|instancia",
+      "evidencia": "documentacion/GUIAS_RONDA5.md",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 18,
+      "pregunta": "Que significa ZeroDivisionError en Python?",
+      "respuesta_esperada": "Una división por cero, explicar dónde y validar divisor sin ejecutar el traceback pegado.",
+      "ancla_minima": "cero",
+      "evidencia": "https://docs.python.org/3/tutorial/errors.html",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 19,
+      "pregunta": "Como leo los puertos que escuchan en Ubuntu sin cambiar nada?",
+      "respuesta_esperada": "ss -ltn es lectura; identificar dirección y puerto sin afirmar que abre o cierra servicios.",
+      "ancla_minima": "ss -ltn",
+      "evidencia": "documentacion/GUIAS_RONDA5.md",
+      "revision_humana": "pendiente"
+    },
+    {
+      "numero": 20,
+      "pregunta": "Por que un modelo Q4 de 8B no ocupa necesariamente 16 GB de VRAM?",
+      "respuesta_esperada": "Parámetros por bytes por peso más contexto y memoria auxiliar; Q4 teórico unos 4 GB solo de pesos. Medir con Ollama.",
+      "ancla_minima": "peso|contexto|bytes",
+      "evidencia": "herramientas/consultas_equipo.py",
+      "revision_humana": "pendiente"
+    }
+  ]
+}
