@@ -85,3 +85,17 @@ python herramientas/ejecutar_pruebas.py --procesos 1
 - `herramientas/modelos/`: definición de modelo para Ollama.
 - `herramientas/terceros/`: componentes incluidos con sus licencias y procedencia.
 - `requirements.txt`: complementos de Python.
+
+## Licencia
+
+El código propio de Jarvis se distribuye bajo la licencia [GNU GPLv3](LICENSE). Los componentes de terceros conservan sus respectivas licencias y avisos de autoría.
+
+## Propuestas de mejora
+
+¿Corregiste un error o añadiste algo útil? Te invito a compartirlo mediante una pull request.
+
+Explica qué cambiaste, por qué y cómo lo probaste. Así podré revisar tu propuesta y valorar su incorporación a Jarvis.
+
+También puedes abrir un issue para comunicar errores o proponer ideas. No incluyas contraseñas, claves ni datos personales.
+
+Compartir una propuesta con este repositorio es voluntario; la licencia no obliga a avisarme personalmente de cada modificación.
