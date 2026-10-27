@@ -2,6 +2,11 @@
 
 Asistente local en español desarrollado en Python, con interfaz gráfica y modo de terminal. Utiliza Ollama para conversar con modelos locales y ofrece herramientas para trabajar con archivos, documentos y tareas.
 
+
+## Vista previa
+
+![Interfaz de Jarvis mostrando una conversación de ejemplo sobre Spring Boot](docs/imagenes/jarvis-demo.png)
+
 ## Funciones presentes en el código
 
 - Chat gráfico con Tkinter y acceso desde terminal.
@@ -11,7 +16,8 @@ Asistente local en español desarrollado en Python, con interfaz gráfica y modo
 - Tareas, recordatorios y herramientas de diagnóstico.
 - Integración con un servicio independiente llamado Segundo Cerebro.
 
-Respecto a la integración de Segundo Cerebro, eso es necesario tenerlo de antes en el computador propio y no esta incluido en este readme como instalarlo
+La integración con Segundo Cerebro requiere instalar y configurar ese proyecto por separado. Este repositorio no lo incluye ni explica su instalación.
+
 
 ## Requisitos
 
@@ -30,6 +36,9 @@ python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
+
+
+La interfaz gráfica necesita Tkinter. La lectura de PDF mediante Poppler requiere las herramientas `pdfinfo` y `pdftotext`, instaladas por separado.
 
 ## Inicio
 
@@ -76,12 +85,3 @@ python herramientas/ejecutar_pruebas.py --procesos 1
 - `herramientas/modelos/`: definición de modelo para Ollama.
 - `herramientas/terceros/`: componentes incluidos con sus licencias y procedencia.
 - `requirements.txt`: complementos de Python.
-
-Los datos, conversaciones, registros y respaldos de la instalación original no se incluyen. Se conservaron los avisos de licencia de terceros. La licencia del código propio está pendiente de elección.
-
-## Próximos pasos
-
-1. Revisar la licencia y la selección final de archivos antes de publicar.
-2. Repetir la instalación en otro equipo o sistema Linux nuevo.
-3. Ampliar la demostración real más allá de una pregunta sencilla.
-4. Añadir capturas con datos ficticios y una demostración breve.
