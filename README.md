@@ -2,10 +2,6 @@
 
 Asistente local en español desarrollado en Python, con interfaz gráfica y modo de terminal. Utiliza Ollama para conversar con modelos locales y ofrece herramientas para trabajar con archivos, documentos y tareas.
 
-## Estado de esta copia
-
-Versión de preparación para portafolio. El código se copió desde la instalación local el 27 de octubre de 2026. Se instalaron las dependencias desde PyPI en un entorno virtual nuevo y se comprobaron el arranque de terminal, la ventana gráfica y una respuesta real con `qwen2.5-coder:1.5b`. La prueba usa este mismo equipo Linux; no equivale a instalar un sistema operativo nuevo. No se atribuyen aquí los resultados históricos de la instalación original.
-
 ## Funciones presentes en el código
 
 - Chat gráfico con Tkinter y acceso desde terminal.
@@ -15,7 +11,7 @@ Versión de preparación para portafolio. El código se copió desde la instalac
 - Tareas, recordatorios y herramientas de diagnóstico.
 - Integración con un servicio independiente llamado Segundo Cerebro.
 
-La disponibilidad de cada función depende de sus herramientas y servicios. Esta copia no incluye Segundo Cerebro, modelos de IA ni credenciales. La integración con servicios externos requiere revisión y configuración explícita.
+Respecto a la integración de Segundo Cerebro, eso es necesario tenerlo de antes en el computador propio y no esta incluido en este readme como instalarlo
 
 ## Requisitos
 
@@ -34,8 +30,6 @@ python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
-
-Se comprobó la instalación de estos paquetes en un entorno virtual sin acceso a los paquetes Python del sistema. Tkinter utiliza la biblioteca incluida por la distribución de Linux. PyGObject y el llavero GNOME son opcionales para credenciales de integraciones externas; no fueron necesarios para la prueba local. La lectura de PDF mediante Poppler necesita `pdfinfo` y `pdftotext` instalados por separado. Consulta la [verificación de instalación](documentacion/INSTALACION_VERIFICADA.md) para conocer los límites.
 
 ## Inicio
 
@@ -64,7 +58,7 @@ El valor inicial `jarvis-deepseek:8b` es un alias personalizado; no se incluye n
 5. Escribe `/contexto 4096` para la prueba de contexto pequeño.
 6. Pregunta `Solo texto. Responde únicamente con el resultado numérico de 2 + 2.`.
 
-Si todavía no tienes modelos, debes obtener uno mediante Ollama antes de este paso. No se comprobó aquí una descarga de modelos nuevos. Los modelos grandes exigen más memoria; la prueba con uno pequeño no acredita los demás.
+Si todavía no tienes modelos, debes obtener uno mediante Ollama antes de este paso.
 
 En Jarvis, `/ayuda` muestra los comandos y `/diagnostico` permite consultar las conexiones. No uses el proyecto con documentos privados hasta revisar su configuración y los servicios habilitados.
 
@@ -75,8 +69,6 @@ El proyecto incluye archivos `prueba_*.py` y un ejecutor con carpetas temporales
 ```bash
 python herramientas/ejecutar_pruebas.py --procesos 1
 ```
-
-Resultado combinado en el entorno virtual nuevo, 27/10/2026: **2760 casos aprobados y 2 omitidos**, en 169 archivos. Incluye 34 pruebas gráficas ejecutadas por separado con Tk real. Se omiten una integración externa no configurada y un caso de PDF cifrado que necesita cryptography. Consulta el [informe de instalación](documentacion/INSTALACION_VERIFICADA.md) y la [revisión previa](documentacion/COMPROBACION_PORTAFOLIO.md) para conocer el método, las correcciones y los límites. No se promete el mismo resultado en otro equipo.
 
 ## Estructura
 
